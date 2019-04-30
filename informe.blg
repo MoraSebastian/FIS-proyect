@@ -1,0 +1,21 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: informe.aux
+A level-1 auxiliary file: proyecto/caso/caso.aux
+A level-1 auxiliary file: proyecto/metodologia/metodologia.aux
+A level-1 auxiliary file: diseno/requerimientos/requerimientos.aux
+A level-1 auxiliary file: diseno/interaccion/interaccion.aux
+A level-1 auxiliary file: diseno/clases/clases.aux
+A level-1 auxiliary file: diseno/patrones/patrones.aux
+A level-1 auxiliary file: diseno/estados/estados.aux
+A level-1 auxiliary file: diseno/componentes/componentes.aux
+A level-1 auxiliary file: diseno/nodos/nodos.aux
+A level-1 auxiliary file: diseno/actividades/actividades.aux
+A level-1 auxiliary file: reflexiones/conclusiones/conclusiones.aux
+The style file: plain.bst
+I couldn't open database file .bib
+---line 22 of file informe.aux
+ : \bibdata{
+ :          }
+I'm skipping whatever remains of this command
+I found no \citation commands---while reading file informe.aux
+I found no database files---while reading file informe.aux
+(There were 3 error messages)

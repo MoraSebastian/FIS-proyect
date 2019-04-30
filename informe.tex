@@ -1,0 +1,35 @@
+\documentclass[11pt,letterpaper]{book}
+%-----------------------PAQUTES---------------------------%
+\usepackage{graphicx}
+\usepackage[spanish]{babel}
+%\usepackage{listings}
+%\usepackage{color}
+%------------------------MACROS---------------------------%
+%\input{sbmacros}
+%-----------------------PORTADA---------------------------%
+\title{Proyecto Final}
+\author{Estefanía García González, Sebastián Mora Sabogal}
+\begin{document}
+\maketitle
+\tableofcontents
+\listoffigures
+
+\part{PROYECTO}
+\include{proyecto/caso/caso}
+\include{proyecto/metodologia/metodologia}
+\part{DISEÑO}
+\include{diseno/requerimientos/requerimientos}
+\include{diseno/interaccion/interaccion}
+\include{diseno/clases/clases}
+\include{diseno/patrones/patrones}
+\include{diseno/estados/estados}
+\include{diseno/componentes/componentes}
+\include{diseno/nodos/nodos}
+\include{diseno/actividades/actividades}
+\part{REFLEXIONES}
+\include{reflexiones/conclusiones/conclusiones}
+%---bibliografia
+\bibliographystyle{plain}
+\bibliography{}
+
+\end{document}
