@@ -14,6 +14,7 @@
 \contentsline {part}{II\hspace {1em}DISE\IeC {\~N}O}{15}% 
 \contentsline {chapter}{\numberline {3}Requerimientos}{17}% 
 \contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n}{17}% 
+\contentsline {section}{\numberline {3.2}Requerimientos del Cliente}{18}% 
 \contentsline {chapter}{\numberline {4}Interacci\IeC {\'o}n}{19}% 
 \contentsline {section}{\numberline {4.1}Introducci\IeC {\'o}n}{19}% 
 \contentsline {chapter}{\numberline {5}Clases}{21}% 
