@@ -1,68 +1,35 @@
 
 \chapter{Requerimientos}
 \section{Introducción}
-Como cualquier proyecto de cualquier indole, un punto fundamental, consiste en conocer cual es la necesidad o el problema que se desea resolver, lo cual conlleva a saber qué es lo que se debe realizar, para solventar tales necesidades. Esta es la idea básica de los requerimientos, definir cuales son los aspectos que se deben realizar para complacer las necesidades de un cliente.
+Para cualquier proyecto de software, es un punto fundamental conocer cuál es la necesidad y el problema que el cliente desea resolver. Para tener una visión holística del problema, se hace necesario definir los requerimientos que satisfagan al cliente y resuelvan el problema.
 \newpage
 
 \section{Requerimientos del Cliente}
-Se entienden como el qué es lo que el cliente esperará encontrar, cuando interactúe con la aplicación. Bajo la anterior premisa, se procede a definir los siguientes requerimientos de cliente:
-
+Se entiende como lo que el cliente espera encontrar cuando interactúe con la aplicación. Bajo la anterior premisa, se definieron los siguientes requerimientos:
 \begin{enumerate}
+	\item Añadir una tarea.
+	\item Añadir subtareas para una tarea.
+	\item Añadir un horario universitario.
+	\item Añadir un horario de descanso (dormir).
+	\item Añadir un horario de transporte.
+	\item Añadir una tarea a una materia.
 	\item Mostrar todas las tareas pendientes.
-	\item Mostrar las tareas pendientes por categoría.
-	\item Mostrar las tareas pendientes por su tipo.
+	\item Mostrar las tareas pendientes por materia.
+	\item Mostrar las tareas pendientes por tipo.
 	\item Mostrar las tareas pendientes para una fecha.
 	\item Mostrar las tareas pendientes por dificultad.
+	\item Mostrar el horario general del usuario.
 	\item Mostrar los horarios asignados para las tareas pendientes.
-	\item Alertar de la próxima entrega de una tarea.
-	\item Sugerir horarios de clase del usuario.
+	\item Modificar horario.
+	\item Modificar tarea.
+	\item Sugerir horarios para realizar tareas.
 	\item Sugerir cuánto tiempo podría tomar una tarea.
 	\item Sugerir tiempos de pausas activas durante la realización de una tarea.
-	\item Advertir si se debe sacrificar algún espacio destinado a descanso.
-	\item Advertir cuando no se alcanzará a terminar una tarea para una fecha especificada.
+	\item Alertar de la próxima entrega de una tarea.
+	\item Advertir si se debe sacrificar algún espacio de descanso.
+
 \end{enumerate}
 
+Las siguientes tablas especificarán cada requerimiento tipo C:
+ \input{diseno/requerimientos/tablasRequerimientos}
 
-
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
