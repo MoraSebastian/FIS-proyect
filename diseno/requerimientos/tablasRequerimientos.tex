@@ -64,7 +64,7 @@ Secuencia & Paso & Acción \\
 \cline{2-3}
 & 4 & El usuario verifica la información. \\
 \cline{2-3}
-& 5 & El pulsa la opción de aceptar.
+& 5 & El pulsa la opción de aceptar. \\
 \hline
 Postcondición & \multicolumn {2}{p{10cm}|} {El sistema añadirá la subtarea a la tarea, mostrará sus especificaciones y recomendación de tiempo de realización y de horario} \\
 \hline
@@ -96,7 +96,7 @@ Urgencia & \multicolumn {2}{p{10cm}|} {No urgente}    \\
 \hline
 Comentarios & No. & Descripción \\
 \cline{2-3}
-& 1 & Añadir una subtarea es lo mismo que añadir una tarea, la deferencia es que está anidada dentro de una tarea general. 
+& 1 & Añadir una subtarea es lo mismo que añadir una tarea, la deferencia es que está anidada dentro de una tarea general. \\
 \hline
 \end{tabular}
 \end{table}
@@ -106,42 +106,46 @@ Comentarios & No. & Descripción \\
 \centering
 \begin{tabular}{|l|c|p{8cm}|}
 \hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
+RF-14 & \multicolumn {2}{p{10cm}|} {Modificar horarios}    \\
 \hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
+Descripcion & \multicolumn {2}{p{10cm}|} {Se selecciona y modifica una franja del horario.}\\
 \hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
+Precondición & \multicolumn {2}{p{10cm}|} {El horario que lo que se desea modificar debe estar asignado.}\\
 \cline{2-3}
 Secuencia & Paso & Acción \\
 \cline{2-3}
-& 1 & relatar acción \\
+& 1 & Se selecciona la opción de modificar horario. \\
 \cline{2-3}
-& 2 & relatar acción 2 \\
+& 2 & Se selecciona el horario de la tarea que se desea cambiar. \\
+\cline{2-3}
+& 3 & Se selecciona la nueva franja de horario en la que se acomodara la tarea. \\
+\cline{2-3}
+& 4 & El cambio de horario se ha realizado. \\
 \hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
+Postcondición & \multicolumn {2}{p{10cm}|} {El horario es modificado y el sistema puede ofrecer sugerencia de tiempo de realización, o incluso si se debe sacrificar algún espacio de descanso.} \\
 \hline
 Excepciones & Paso & Acción \\
 \cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
+& 1 & No hay ningún horario para seleccionar, en este caso el caso de uso acaba.  \\
 \cline{2-3}
-& 2 & relatar acción 2 \\
+& 3 & No existe ninguna franja disponible para cambiar, en este caso el caso de uso acaba.\\
 \hline
 Rendimiento & Paso & Cota de tiempo \\
 \cline{2-3}
-& 1 & cota de tiempo 1 \\
+& 1 & 1 segundo \\
 \cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
+& 2 & 1 segundo \\
 \cline{2-3}
-& 1 & comentario 1 \\
+& 3 & 10 segundos \\
 \cline{2-3}
-& 2 & comentario 2 \\
+& 4 & 1 segundo \\
 \hline
+Importancia & \multicolumn {2}{p{10cm}|} {Importante}    \\
+\hline
+Urgencia & \multicolumn {2}{p{10cm}|} {Hay presión}    \\
+\hline
+
+
 \end{tabular}
 \end{table}
 
@@ -150,41 +154,45 @@ Comentarios & No. & Descripción \\
 \centering
 \begin{tabular}{|l|c|p{8cm}|}
 \hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
+RF-15 & \multicolumn {2}{p{10cm}|} {Modificar Tareas. }    \\
 \hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
+Descripcion & \multicolumn {2}{p{10cm}|} {Se permite modificar los diferentes campos de una tarea.}\\
 \hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
+Precondición & \multicolumn {2}{p{10cm}|} {Debe existir alguna tarea para modificar.}\\
 \cline{2-3}
 Secuencia & Paso & Acción \\
 \cline{2-3}
-& 1 & relatar acción \\
+& 1 & Se solicita modificar una tarea. \\
 \cline{2-3}
-& 2 & relatar acción 2 \\
+& 2 & El usuario selecciona la tarea que desea modificar. \\
+\cline{2-3}
+& 3 & El usuario selecciona el campo de la tarea que desea modificar. \\
+\cline{2-3}
+& 4 & Se modifica el campo de la tarea. \\
+\cline{2-3}
+& 5 & Se permite elegir realizar otro cambio o terminar. \\
 \hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
+Postcondición & \multicolumn {2}{p{10cm}|} {La tarea tiene un campo modificado, según el tipo podría haber una sugerencia, como en el caso de dificultad, o cambio de horario para realizarse.} \\
 \hline
 Excepciones & Paso & Acción \\
 \cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
+& 3 & Si la tarea solo tiene los campos minimos se puede agregar el cambio, así el caso de uso continua.   \\
 \hline
 Rendimiento & Paso & Cota de tiempo \\
 \cline{2-3}
-& 1 & cota de tiempo 1 \\
+& 1 & 1 segundo \\
 \cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
+& 2 & 1 segundo \\
 \cline{2-3}
-& 1 & comentario 1 \\
+& 3 & 1 segundo \\
 \cline{2-3}
-& 2 & comentario 2 \\
+& 4 & 5 segundos \\
+\cline{2-3}
+& 5 & 1 segundo \\
+\hline
+Importancia & \multicolumn {2}{p{10cm}|} {vital}    \\
+\hline
+Urgencia & \multicolumn {2}{p{10cm}|} {Hay presión}    \\
 \hline
 \end{tabular}
 \end{table}
@@ -194,41 +202,43 @@ Comentarios & No. & Descripción \\
 \centering
 \begin{tabular}{|l|c|p{8cm}|}
 \hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
+RF-16 & \multicolumn {2}{p{10cm}|} {Sugerir horarios para realizar tareas.}    \\
 \hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
+Descripcion & \multicolumn {2}{p{10cm}|} {Según los horarios disponibles, al momentos de adicionar una tarea se hace una sugerencia de horario para realizarla.}\\
 \hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
+Precondición & \multicolumn {2}{p{10cm}|} {Se debe haber agregado una tarea, y deben haber horarios disponibles para hacer la recomendación.}\\
 \cline{2-3}
 Secuencia & Paso & Acción \\
 \cline{2-3}
-& 1 & relatar acción \\
+& 1 & Al momento de agregar una tarea, se revisan horarios disponibles. \\
 \cline{2-3}
-& 2 & relatar acción 2 \\
+& 2 & Se revisan las variables de la tarea (dificultad, fecha de entrega). \\
+\cline{2-3}
+& 3 & Se hace la recomendación. \\
 \hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
+Postcondición & \multicolumn {2}{p{10cm}|} {La recomendación se dará al usuario dandole la posibilidad de tomarla o dejarla.} \\
 \hline
 Excepciones & Paso & Acción \\
 \cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
+& 1 & Puede pasar que no haya horarios disponibles para hacer la recomendación, así el caso de uso termina.  \\
 \cline{2-3}
-& 2 & relatar acción 2 \\
+& 2 & Si no hay variables de tarea definidos, se pasa al siguiente paso. \\
 \hline
 Rendimiento & Paso & Cota de tiempo \\
 \cline{2-3}
-& 1 & cota de tiempo 1 \\
+& 1 & 5 segundos \\
 \cline{2-3}
-& 2 & cota de tiempo 2 \\
+& 2 & 5 segundos \\
+\cline{2-3}
+& 2 & 1 segundo \\
 \hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
+Importancia & \multicolumn {2}{p{10cm}|} {Normal}    \\
 \hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
+Urgencia & \multicolumn {2}{p{10cm}|} {Puede esperar}    \\
 \hline
 Comentarios & No. & Descripción \\
 \cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
+& 1 & El caso de uso esta bastante ligado a otros casos de uso, como puede apreciarse en el diagrama, sin embargo su relevancia no es la misma como la de los casos a los que apoya. \\
 \hline
 \end{tabular}
 \end{table}
@@ -238,657 +248,35 @@ Comentarios & No. & Descripción \\
 \centering
 \begin{tabular}{|l|c|p{8cm}|}
 \hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
+RF-19 & \multicolumn {2}{p{10cm}|} {Alertar de la próxima entrega de una tarea. }    \\
 \hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
+Descripcion & \multicolumn {2}{p{10cm}|} {Se pretende avisar con tiempo prudencial que el ciclo de una tarea esta por finalizar, lo cual significa que debe ser terminada para ser entregada.}\\
 \hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
+Precondición & \multicolumn {2}{p{10cm}|} {La existencia de la tarea.}\\
 \cline{2-3}
 Secuencia & Paso & Acción \\
 \cline{2-3}
-& 1 & relatar acción \\
+& 1 & Se revisa el tiempo para que la tarea deba ser terminada comparandolo con el prudencial. \\
 \cline{2-3}
-& 2 & relatar acción 2 \\
+& 2 & Se realiza el aviso. \\
 \hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
+Postcondición & \multicolumn {2}{p{10cm}|} {El usuario será avisado sobre la proximidad de su tarea.} \\
 \hline
 Excepciones & Paso & Acción \\
 \cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
+& 1 & Si la tarea no cuenta con tiempo de realización se considera indefinida, así el caso de uso termina.  \\
 \hline
 Rendimiento & Paso & Cota de tiempo \\
 \cline{2-3}
-& 1 & cota de tiempo 1 \\
+& 1 & 1 segundo \\
 \cline{2-3}
-& 2 & cota de tiempo 2 \\
+& 2 & 1 segundo \\
 \hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
+Importancia & \multicolumn {2}{p{10cm}|} {Importante}    \\
 \hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
+Urgencia & \multicolumn {2}{p{10cm}|} {Puede esperar}    \\
+
 \hline
 \end{tabular}
 \end{table}
 
-% 7.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 8.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 9.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 10.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 11.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 12.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 13.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 14.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 15.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 16.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 17.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 18.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 19.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
-
-% 20.
-\begin{table}[htb]
-\centering
-\begin{tabular}{|l|c|p{8cm}|}
-\hline
-RF- & \multicolumn {2}{p{10cm}|} {Nombre del requisito funcional una vaina asi bien larga carajo pero que no se pase jajajaj }    \\
-\hline
-Descripcion & \multicolumn {2}{p{10cm}|} {la descripcion}\\
-\hline
-Precondición & \multicolumn {2}{p{10cm}|} {la precondicion}\\
-\cline{2-3}
-Secuencia & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Postcondición & \multicolumn {2}{p{10cm}|} {la postcondición} \\
-\hline
-Excepciones & Paso & Acción \\
-\cline{2-3}
-& 1 & relatar acción haber probando si se pasa bien o se pasa mal espero que  sea bien jajajaja  \\
-\cline{2-3}
-& 2 & relatar acción 2 \\
-\hline
-Rendimiento & Paso & Cota de tiempo \\
-\cline{2-3}
-& 1 & cota de tiempo 1 \\
-\cline{2-3}
-& 2 & cota de tiempo 2 \\
-\hline
-Importancia & \multicolumn {2}{p{10cm}|} {la importancia}    \\
-\hline
-Urgencia & \multicolumn {2}{p{10cm}|} {la urgencia}    \\
-\hline
-Comentarios & No. & Descripción \\
-\cline{2-3}
-& 1 & comentario 1 \\
-\cline{2-3}
-& 2 & comentario 2 \\
-\hline
-\end{tabular}
-\end{table}
