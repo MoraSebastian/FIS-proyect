@@ -106,6 +106,121 @@ Comentarios & No. & Descripción \\
 \centering
 \begin{tabular}{|l|c|p{8cm}|}
 \hline
+RF-03 & \multicolumn {2}{p{10cm}|} {Añadir un horario universitario }    \\
+\hline
+Descripción & \multicolumn {2}{p{10cm}|} {Se crea un horario con materias de la universidad.}\\
+\hline
+Precondición & \multicolumn {2}{p{10cm}|} {Ser un usuario registrado.}\\
+\cline{2-3}
+Secuencia & Paso & Acción \\
+\cline{2-3}
+& 1 & Seleccionar la opción de crear horario. \\
+\cline{2-3}
+& 2 & Escribir el nombre de cada materia y su respectiva hora de inicio y fin y los días en que se repite. \\
+\cline{2-3}
+& 3 & El usuario añade la materia y repite el proceso cuantas veces sea necesario. \\
+\cline{2-3}
+& 4 & Pulsar en el botón de aceptar. \\
+\hline
+Postcondición & \multicolumn {2}{p{10cm}|} {El sistema guardará el horario asignado para el usuario. } \\
+\hline
+Excepciones & Paso & Acción \\
+\cline{2-3}
+& 3 & El horario de la universidad llena totalmente los espacios disponibles.
+ \\
+\cline{2-3}
+& 3 & No hay espacios disponibles para añadir más materias al horario.
+ \\
+\hline
+Rendimiento & Paso & Cota de tiempo \\
+\cline{2-3}
+& 1 & 1 segundo \\
+\cline{2-3}
+& 2 & 40 segundos \\
+\cline{2-3}
+& 3 & 2 minutos \\
+\cline{2-3}
+& 4 & 1 segundo \\
+\hline
+Importancia & \multicolumn {2}{p{10cm}|} {Muy importante}    \\
+\hline
+Urgencia & \multicolumn {2}{p{10cm}|} {Urgente}    \\
+\hline
+\end{tabular}
+\end{table}
+
+% 4.
+\begin{table}[htb]
+\centering
+\begin{tabular}{|l|c|p{8cm}|}
+\hline
+RF-04 & \multicolumn {2}{p{10cm}|} {Mostrar todas las tareas pendientes. }    \\
+\hline
+Descripcion & \multicolumn {2}{p{10cm}|} {Se muestra la lista de tareas pendientes.}\\
+\hline
+Precondición & \multicolumn {2}{p{10cm}|} {Debe existir al menos una tarea pendiente.}\\
+\cline{2-3}
+Secuencia & Paso & Acción \\
+\cline{2-3}
+& 1 & Seleccionar la opción de ver las tareas pendientes. \\
+\hline
+Postcondición & \multicolumn {2}{p{10cm}|} {El sistema mostrará todas las tareas pendientes} \\
+\hline
+Excepciones & Paso & Acción \\
+\cline{2-3}
+& 1 & No hay tareas pendientes para mostrar.  \\
+\hline
+Rendimiento & Paso & Cota de tiempo \\
+\cline{2-3}
+& 1 & 1 segundo \\
+\hline
+Importancia & \multicolumn {2}{p{10cm}|} {Vital}    \\
+\hline
+Urgencia & \multicolumn {2}{p{10cm}|} {Urgente?}    \\
+\hline
+\end{tabular}
+\end{table}
+
+% 5.
+\begin{table}[htb]
+\centering
+\begin{tabular}{|l|c|p{8cm}|}
+\hline
+RF-05 & \multicolumn {2}{p{10cm}|} {Mostrar el horario general del usuario. }    \\
+\hline
+Descripción & \multicolumn {2}{p{10cm}|} {Se muestra el horario completo del estudiante.}\\
+\hline
+Precondición & \multicolumn {2}{p{10cm}|} {El usuario debe haber creado un horario antes.}\\
+\cline{2-3}
+Secuencia & Paso & Acción \\
+\cline{2-3}
+& 1 & Seleccionar la opción de mostrar el horario. \\
+
+\hline
+Postcondición & \multicolumn {2}{p{10cm}|} {El sistema mostrará el horario con las materias, los descansos, los horario de transporte y las tareas pendientes} \\
+\hline
+Excepciones & Paso & Acción \\
+\cline{2-3}
+& 1 & No hay un horario para presentar.  \\
+
+\hline
+Rendimiento & Paso & Cota de tiempo \\
+\cline{2-3}
+& 1 & 1 segundo \\
+\hline
+Importancia & \multicolumn {2}{p{10cm}|} {Importante}    \\
+\hline
+Urgencia & \multicolumn {2}{p{10cm}|} {Puede esperar}    \\
+\hline
+\end{tabular}
+\end{table}
+
+
+% 14.
+\begin{table}[htb]
+\centering
+\begin{tabular}{|l|c|p{8cm}|}
+\hline
 RF-14 & \multicolumn {2}{p{10cm}|} {Modificar horarios}    \\
 \hline
 Descripcion & \multicolumn {2}{p{10cm}|} {Se selecciona y modifica una franja del horario.}\\
@@ -149,7 +264,7 @@ Urgencia & \multicolumn {2}{p{10cm}|} {Hay presión}    \\
 \end{tabular}
 \end{table}
 
-% 4.
+% 15.
 \begin{table}[htb]
 \centering
 \begin{tabular}{|l|c|p{8cm}|}
@@ -197,7 +312,7 @@ Urgencia & \multicolumn {2}{p{10cm}|} {Hay presión}    \\
 \end{tabular}
 \end{table}
 
-% 5.
+% 16.
 \begin{table}[htb]
 \centering
 \begin{tabular}{|l|c|p{8cm}|}
@@ -243,7 +358,7 @@ Comentarios & No. & Descripción \\
 \end{tabular}
 \end{table}
 
-% 6.
+% 19.
 \begin{table}[htb]
 \centering
 \begin{tabular}{|l|c|p{8cm}|}

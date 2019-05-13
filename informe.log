@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.1)  11 MAY 2019 10:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.1)  12 MAY 2019 20:13
 entering extended mode
 **./informe.tex
 (informe.tex
@@ -454,17 +454,32 @@ Overfull \hbox (14.74472pt too wide) in paragraph at lines 107--150
  []
 
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 155--198
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 155--182
  [][] 
  []
 
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 203--244
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 187--216
  [][] 
  []
 
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 249--281
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 222--265
+ [][] 
+ []
+
+
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 270--313
+ [][] 
+ []
+
+
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 318--359
+ [][] 
+ []
+
+
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 364--396
  [][] 
  []
 
@@ -493,19 +508,19 @@ LaTeX Info: Redefining \% on input line 23.
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
  [29]
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+ [30]
 \openout2 = `diseno/interaccion/interaccion.aux'.
 
 
 (diseno/interaccion/interaccion.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [30
-
-
-
-]
 Cap\'{\i }tulo 4.
-[31])
+[31
+
+
+
+])
 \openout2 = `diseno/clases/clases.aux'.
 
  (diseno/clases/clases.tex
@@ -618,7 +633,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  2651 strings out of 492945
  47575 string characters out of 3124033
- 151383 words of memory out of 3000000
+ 165383 words of memory out of 3000000
  6407 multiletter control sequences out of 15000+200000
  10376 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -631,7 +646,7 @@ Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
 rs/Sebastián/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmr17.pfb><C:/Users/Sebastián/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmsl10.pfb>
-Output written on informe.pdf (51 pages, 348918 bytes).
+Output written on informe.pdf (51 pages, 351879 bytes).
 PDF statistics:
  207 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
