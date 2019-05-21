@@ -24,7 +24,8 @@
 \contentsline {section}{\numberline {5.1}Introducción}{35}
 \contentsline {chapter}{\numberline {6}Patrones}{37}
 \contentsline {section}{\numberline {6.1}Introducción}{37}
-\contentsline {section}{\numberline {6.2}Prototipo}{38}
+\contentsline {section}{\numberline {6.2}Composite}{38}
+\contentsline {section}{\numberline {6.3}Agrupación}{38}
 \contentsline {chapter}{\numberline {7}Estados}{39}
 \contentsline {section}{\numberline {7.1}Introducción}{39}
 \contentsline {chapter}{\numberline {8}Componentes}{41}

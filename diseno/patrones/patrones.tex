@@ -1,9 +1,12 @@
 \chapter{Patrones}
 \section{Introducción}
-cntenido...
+
 \newpage
 
-\section{Prototipo}
+\section{Composite}
+El patrón de diseño Composite (Componente), nos permite construir estructuras complejas partiendo de otras estructuras mucho mas simples, lo cual permite crear estructuras compuestas conformadas por otras mas pequeñas. Este patrón resulta útil para la creación de subtareas dentro de una tarea mas general, ya que se genera una estructura en forma de árbol gracias a la recursividad con la que funciona el patrón. Otra ventaja de su utilización es que se puede representar la jerarquía de tarea-subtarea, además de añadir dinamismo a la tarea, ya que ésta puede tener subtareas de diferentes tipos. Además el cliente no tiene que diferenciar entre la tarea y la subtarea.
+\\
+En conclusión, el patrón componente posibilita la solución del problema de las subtareas, ya que permite jerarquizar, añadir dinamismo a la tarea por medio de subtareas y construir la tarea general por medio de subtareas, por esta razón será utilizado dentro del software.
 
-
-
+\section{Agrupación}
+Un horario puede mostrarse como la constitución de diversas franjas en un orden lógico; estas deben agruparse para que haya orden y se puedan manejar conjuntamente. Por está razón el patrón agrupación será de utilidad, ya que permite generar una estructura en la cual los módulos, que en este caso son las franjas, puedan ser agrupados para invocarse de forma colectiva como el horario, de esta forma se centraliza el control de la estructura en una sola clase.
