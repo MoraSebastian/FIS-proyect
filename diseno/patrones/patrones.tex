@@ -1,6 +1,10 @@
 \chapter{Patrones}
 \section{Introducción}
+Aunque históricamente el software pueda considerarse como primitivo si se compara con otras disciplinas que llevan siglos de ventaja en cuanto a su desarrollo, actualmente y desde una perspectiva más propia, no es así. La anterior reflexión conduce a la conclusión de que el software a evolucionado lo suficiente para valerse en diferentes aspectos, en este caso en el que se quiere entrar en detalle consiste en soluciones generalizadas a problemas reincidentes. Así es como llegamos a los patrones de diseño, los cuales para cualquier proyecto, independientemente de su complejidad y tamaño, seguramente se verán involucrados.
 
+A partir de lo anterior, es claro que los patrones de diseño apareceran en la propuesta de estructura del proyeto, más conocida como diagrama de clases, con la intención de obtener un diagrama razonable desde un punto de vista de principios de diseño así como los principios mismos del paradigma orientado a objetos. 
+
+Se debe mencionar también que los patrones propuestos en este documento, no necesariamente todos están incluidos en el Gof (the Gang of Four), pues existen otras soluciones que aunque no tan conocidas, pueden tener un impacto positivo debido a su implementación.
 \newpage
 
 \section{Composite}
@@ -10,3 +14,29 @@ En conclusión, el patrón componente posibilita la solución del problema de la
 
 \section{Agrupación}
 Un horario puede mostrarse como la constitución de diversas franjas en un orden lógico; estas deben agruparse para que haya orden y se puedan manejar conjuntamente. Por está razón el patrón agrupación será de utilidad, ya que permite generar una estructura en la cual los módulos, que en este caso son las franjas, puedan ser agrupados para invocarse de forma colectiva como el horario, de esta forma se centraliza el control de la estructura en una sola clase.
+
+\section{Patrón Fábrica Abstracta}
+La creación de objetos es una situación que aparece en practicamente cualquier proyecto, por lo que se debe buscar una estructura que permita llevar esta creación de la mejor manera, incluso en mayor medida cuando el objeto a crear pertenece a una familia de otros objetos que también pueden ser creados, y por supuesto en un caso más general en caso de que hayan varias de estas familias de objetos.
+
+La fábrica abstracta lo que hace es esto, proveer una interfaz para la creación de estas familias de objetos relacionados, sin especificar sus clases concretas.
+
+Para el caso del proyecto la fabrica abstracta es útil pues existen dos familias de objetos a crear, la primera consiste en las tareas y sus tipos, la segunda son las categorias y sus tipos.
+
+%%\begin{figure}[H]
+	%%\centering
+	%%\includegraphics[width=1\linewidth]{diseno/clases/imagenes/abstractFactory}
+%%	\caption{Patrón Fábrica Abstracta}
+	%%\label{fig:gantt}
+%%\end{figure}
+
+\section{Patrón Estrategia}
+Dada la situación de que un programa pueda ofrecer un servicio, el cual se pueda realizar de varias maneras hace alusión a este patrón. La intención de este es poder seleccionar la alternativa más adecuada para el cliente, durante tiempo de ejecución.
+
+En la mención a la fábrica abstracta se mencionaron las familias de objetos de tarea y categoria, las cuales en algún momento necesitarán de la posibilidad de una modificación de alguno de sus objetos, operación que no solo involucra a este último en cuestión, sino que abarca principalmente el modulo externo de manejo de base de datos. Dependiendo de cada objeto, la misma operación debe hacerce de manera distinta, haciendo así que entre el patrón estrategia.
+
+%%\begin{figure}[H]
+	%%\centering
+%%	\includegraphics[width=1\linewidth]{diseno/clases/imagenes/strategy}
+%%	\caption{Patrón Fábrica Abstracta}
+%%	\label{fig:gantt}
+%%\end{figure}
