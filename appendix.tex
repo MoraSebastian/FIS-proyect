@@ -130,6 +130,196 @@ public class Franja extends Horario{
 	}
 }
 \end{lstlisting}
-\section{Patrón fábrica abstracta}
+\section{Patrón Estrategia}
 
-\section{Patrón estrategia}
+\subsection{Clase EstrategiaMod}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public abstract class EstrategiaMod{
+	public abstract void Modificar();
+}
+\end{lstlisting}
+
+\subsection{Clase EstrategiaConcretaA}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class EstrategiaConcretaA extends EstrategiaMod{
+	public void Modificar(){}
+}
+\end{lstlisting}
+
+\subsection{Clase EstrategiaConcretaB}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class EstrategiaConcretaB extends EstrategiaMod{
+	public void Modificar(){}
+}
+\end{lstlisting}
+
+\subsection{Clase EstrategiaConcretaC}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class EstrategiaConcretaC extends EstrategiaMod{
+	public void Modificar(){}
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public abstract class Tarea{
+public abstract void operacion();
+public void adicionar(Componente componente){}
+public void remover(Componente componente){}
+public Componente getHijo(int a){
+  return null;
+}
+}
+\end{lstlisting}
+
+\subsection{Clase Subtarea}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+import java.util.List;
+import java.util.ArrayList;
+public class Subtarea extends Tarea{
+private List<Tarea> hijo=new ArrayList<Tarea>();
+public void operacion(){
+  //para todo g en hijo
+  for(Tarea g:hijo){
+     g.operacion();
+  }
+}
+public void adicionar(Componente componente){
+  hijo.add(componente);
+}
+public void remover(Componente componente){
+  hijo.remove(componente);
+}
+public Componente getHijo(int a){
+  return hijo.get(a);
+}
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea trabajo}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class TareaTrabajo extends Tarea{
+private String descripcionTrabajo;
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea consulta}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class TareaConsulta extends Tarea{
+private String descripcionConsulta;
+private boolean requiereConexion;
+public void operacion(){}
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea lectura}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class TareaLectura extends Tarea{
+private int numeroPaginas;
+private String nombreLectura;
+public void operacion(){null}
+}
+\end{lstlisting}
+
+\section{Patrón Fábrica Abstracta}
+
+\subsection{Clase Tarea}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public abstract class Tarea{
+public abstract void operacion();
+public void adicionar(Componente componente){}
+public void remover(Componente componente){}
+public Componente getHijo(int a){
+  return null;
+}
+}
+\end{lstlisting}
+
+\subsection{Clase Subtarea}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+import java.util.List;
+import java.util.ArrayList;
+public class Subtarea extends Tarea{
+private List<Tarea> hijo=new ArrayList<Tarea>();
+public void operacion(){
+  //para todo g en hijo
+  for(Tarea g:hijo){
+     g.operacion();
+  }
+}
+public void adicionar(Componente componente){
+  hijo.add(componente);
+}
+public void remover(Componente componente){
+  hijo.remove(componente);
+}
+public Componente getHijo(int a){
+  return hijo.get(a);
+}
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea trabajo}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class TareaTrabajo extends Tarea{
+private String descripcionTrabajo;
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea consulta}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class TareaConsulta extends Tarea{
+private String descripcionConsulta;
+private boolean requiereConexion;
+public void operacion(){}
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea lectura}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class TareaLectura extends Tarea{
+private int numeroPaginas;
+private String nombreLectura;
+public void operacion(){null}
+}
+\end{lstlisting}
+
+\subsection{Clase FabricaAbstracta}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public abstract class FabricaAbstracta{
+	public abstract Tareaa CrearTarea();
+}
+\end{lstlisting}
+
+\subsection{Clase FabricaTTrabajo}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class FabricaTTrabajo extends FabricaAbstracta{
+	public Tareaa CrearTarea(){}
+}
+\end{lstlisting}
+
+\subsection{Clase FabricaTLectura}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class FabricaTLectura extends FabricaAbstracta{
+	public Tareaa CrearTarea(){}
+}
+\end{lstlisting}
+
+\subsection{Clase FabricaTConsulta}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class FabricaTConsulta extends FabricaAbstracta{
+	public Tareaa CrearTarea(){}
+}
+\end{lstlisting}
+
+\subsection{Clase Cliente}{
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class Cliente{
+	public static void main(String[] args){
+  		FabricaAbstracta fab = new FabricaTTrabajo();
+  		Tareaa Tar1 = fab.CrearTarea();
+	  	fab = new FabricaTLectura();
+  		Tareaa Tar2 = fab.CrearTarea();
+	}
+}
+\end{lstlisting}
