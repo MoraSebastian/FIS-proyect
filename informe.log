@@ -1,93 +1,86 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2019.4.24)  21 MAY 2019 17:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2019.4.20)  25 MAY 2019 22:29
 entering extended mode
 **./informe.tex
 (informe.tex
-LaTeX2e <2018-04-01> patch level 5
-
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\book.cl
-s"
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\bk11.cl
-o"
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo"
 File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
-\c@figure=\count87
-\c@table=\count88
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\gra
-phicx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\key
-val.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\gra
-phics.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\tri
-g.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg
-\graphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def
-\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babe
-l.sty"
-Package: babel 2018/09/26 3.24 The Babel package
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/11/03 3.15 The Babel package
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\swit
-ch.def"
-File: switch.def 2018/09/26 3.24 Babel switching mechanism
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
 )
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanis
-h\spanish.ldf"
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babe
-l.def"
-File: babel.def 2018/09/26 3.24 Babel common definitions
-\babel@savecnt=\count89
-\U@D=\dimen105
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/11/03 3.15 Babel common definitions
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtb
-abel.def")
-\bbl@dirlevel=\count90
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
+\babel@savecnt=\count88
+\U@D=\dimen105
 )
 \es@quottoks=\toks15
-\es@quotdepth=\count91
+\es@quotdepth=\count89
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count92
+\c@float@type=\count90
 \float@exts=\toks16
 \float@box=\box26
 \@float@everytoks=\toks17
@@ -95,9 +88,12 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (informe.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
- (proyecto/caso/caso.aux)
-(proyecto/metodologia/metodologia.aux)
-(diseno/requerimientos/requerimientos.aux
+
+(proyecto/caso/caso.aux) (proyecto/metodologia/metodologia.aux
+
+LaTeX Warning: Label `fig:gantt' multiply defined.
+
+) (diseno/requerimientos/requerimientos.aux
 
 LaTeX Warning: Label `fig:gantt' multiply defined.
 
@@ -158,8 +154,11 @@ LaTeX Warning: Label `fig:gantt' multiply defined.
 
 LaTeX Warning: Label `fig:gantt' multiply defined.
 
-) (diseno/interaccion/interaccion.aux) (diseno/clases/clases.aux)
-(diseno/patrones/patrones.aux) (diseno/estados/estados.aux)
+) (diseno/interaccion/interaccion.aux) (diseno/clases/clases.aux
+
+LaTeX Warning: Label `fig:gantt' multiply defined.
+
+) (diseno/patrones/patrones.aux) (diseno/estados/estados.aux)
 (diseno/componentes/componentes.aux) (diseno/nodos/nodos.aux)
 (diseno/actividades/actividades.aux) (reflexiones/conclusiones/conclusiones.aux
 ))
@@ -177,41 +176,44 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
-
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\eps
-topdf-base.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen106
+\scratchbox=\box28
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen107
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks19
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\i
-nfwarerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grf
-ext.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\k
-vdefinekeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\l
-txcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvo
-ptions.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\k
-vsetkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\e
-texcmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\i
-fluatex.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -220,14 +222,12 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\p
-dftexcmds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\Estudiantes\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\i
-fpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -249,17 +249,75 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 15.
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≠ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ≠ in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ° in font cmr12!
+Missing character: There is no √ in font cmr12!
+Missing character: There is no ° in font cmr12!
  [1
 
 
-{C:/Users/Estudiantes/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+{C:/Users/Usuario/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ] (informe.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 4.
- [3])
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmbx10!
+Missing character: There is no ≠ in font cmbx10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ë in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmbx10!
+Missing character: There is no ≥ in font cmbx10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+
+[3]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+)
 \tf@toc=\write3
 \openout3 = `informe.toc'.
 
@@ -268,6 +326,22 @@ LaTeX Info: Redefining \% on input line 17.
  [4] (informe.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 )
 \tf@lof=\write4
 \openout4 = `informe.lof'.
@@ -282,13 +356,117 @@ LaTeX Info: Redefining \% on input line 19.
 ] [7] [8]
 \openout2 = `proyecto/caso/caso.aux'.
 
-
-(proyecto/caso/caso.tex
+ (proyecto/caso/caso.tex
 Cap\'{\i }tulo 1.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≠ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
 [9
 
 
-])
+]
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+)
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
  [10]
@@ -296,326 +474,813 @@ LaTeX Info: Redefining \% on input line 20.
 
  (proyecto/metodologia/metodologia.tex
 Cap\'{\i }tulo 2.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≠ in font cmbx12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 [11
 
 
 
 ]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
 <proyecto/metodologia/imgs/Gantt.png, id=42, 733.99219pt x 298.86656pt>
 File: proyecto/metodologia/imgs/Gantt.png Graphic file (type png)
 <use proyecto/metodologia/imgs/Gantt.png>
 Package pdftex.def Info: proyecto/metodologia/imgs/Gantt.png  used on input lin
-e 22.
-(pdftex.def)             Requested size: 251.9989pt x 102.60742pt.
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
- [12]
-<proyecto/metodologia/imgs/Scrum.png, id=46, 493.0922pt x 307.1475pt>
+e 21. on input line 21.
+Package pdftex.def Info: Requested size: 251.9989pt x 102.60742pt on input line
+ 21.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≠ in font cmbx12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+<proyecto/metodologia/imgs/Scrum.png, id=43, 493.0922pt x 307.1475pt>
 File: proyecto/metodologia/imgs/Scrum.png Graphic file (type png)
 <use proyecto/metodologia/imgs/Scrum.png>
 Package pdftex.def Info: proyecto/metodologia/imgs/Scrum.png  used on input lin
-e 33.
-(pdftex.def)             Requested size: 251.9989pt x 156.9712pt.
+e 29. on input line 29.
+Package pdftex.def Info: Requested size: 251.9989pt x 156.9712pt on input line 
+29.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+Missing character: There is no √ in font cmsl10!
+Missing character: There is no ç in font cmsl10!
+ [12 <./proyecto/metodologia/imgs/Gantt.png>]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
 )
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- [13 <./proyecto/metodologia/imgs/Gantt.png>]
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
- [14 <./proyecto/metodologia/imgs/Scrum.png>] [15
+ [13 <./proyecto/metodologia/imgs/Scrum.png>]
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
+Missing character: There is no √ in font cmsl10!
+Missing character: There is no ç in font cmsl10!
+ [14
 
 
-] [16]
+]
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ë in font cmbx12!
+ [15] [16]
 \openout2 = `diseno/requerimientos/requerimientos.aux'.
 
  (diseno/requerimientos/requerimientos.tex
 Cap\'{\i }tulo 3.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
 [17
 
 
 ]
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
- [18]
-<diseno/requerimientos/imagenes/casouso1.png, id=68, 945.5325pt x 792.9625pt>
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+<diseno/requerimientos/imagenes/casouso1.png, id=65, 945.5325pt x 792.9625pt>
 File: diseno/requerimientos/imagenes/casouso1.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/casouso1.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/casouso1.png  used on i
-nput line 40.
-(pdftex.def)             Requested size: 251.9989pt x 211.33192pt.
-<diseno/requerimientos/imagenes/casouso2.png, id=69, 922.44624pt x 742.775pt>
+nput line 39. on input line 39.
+Package pdftex.def Info: Requested size: 251.9989pt x 211.33192pt on input line
+ 39.
+<diseno/requerimientos/imagenes/casouso2.png, id=66, 922.44624pt x 742.775pt>
 File: diseno/requerimientos/imagenes/casouso2.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/casouso2.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/casouso2.png  used on i
-nput line 46.
-(pdftex.def)             Requested size: 251.9989pt x 202.90936pt.
+nput line 45. on input line 45.
+Package pdftex.def Info: Requested size: 251.9989pt x 202.90936pt on input line
+ 45.
+
+Underfull \vbox (badness 4060) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [18]
 <diseno/requerimientos/imagenes/casouso3.png, id=70, 467.7475pt x 312.16624pt>
 File: diseno/requerimientos/imagenes/casouso3.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/casouso3.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/casouso3.png  used on i
-nput line 52.
-(pdftex.def)             Requested size: 251.9989pt x 168.18143pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
- [19 <./diseno/requerimientos/imagenes/casouso1.png (PNG copy)>]
-<diseno/requerimientos/imagenes/casouso4.png, id=75, 675.52374pt x 440.64626pt>
+nput line 51. on input line 51.
+Package pdftex.def Info: Requested size: 251.9989pt x 168.18143pt on input line
+ 51.
+<diseno/requerimientos/imagenes/casouso4.png, id=71, 675.52374pt x 440.64626pt>
 
 File: diseno/requerimientos/imagenes/casouso4.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/casouso4.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/casouso4.png  used on i
-nput line 58.
-(pdftex.def)             Requested size: 251.9989pt x 164.37457pt.
+nput line 57. on input line 57.
+Package pdftex.def Info: Requested size: 251.9989pt x 164.37457pt on input line
+ 57.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
- [20 <./diseno/requerimientos/imagenes/casouso2.png (PNG copy)> <./diseno/reque
-rimientos/imagenes/casouso3.png (PNG copy)>]
-<diseno/requerimientos/imagenes/secuenciaE01.png, id=79, 798.985pt x 266.9975pt
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [19 <./diseno/requerimientos/imagenes/casouso1.png (PNG copy)> <./diseno/reque
+rimientos/imagenes/casouso2.png (PNG copy)>]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+<diseno/requerimientos/imagenes/secuenciaE01.png, id=76, 798.985pt x 266.9975pt
 >
 File: diseno/requerimientos/imagenes/secuenciaE01.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuenciaE01.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuenciaE01.png  used 
-on input line 70.
-(pdftex.def)             Requested size: 251.9989pt x 84.21057pt.
+on input line 69. on input line 69.
+Package pdftex.def Info: Requested size: 251.9989pt x 84.21057pt on input line 
+69.
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
+ [20 <./diseno/requerimientos/imagenes/casouso3.png (PNG copy)> <./diseno/reque
+rimientos/imagenes/casouso4.png (PNG copy)>]
 <diseno/requerimientos/imagenes/secuenciaE02.png, id=80, 798.985pt x 305.14pt>
 File: diseno/requerimientos/imagenes/secuenciaE02.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuenciaE02.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuenciaE02.png  used 
-on input line 77.
-(pdftex.def)             Requested size: 251.9989pt x 96.24066pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 81.
-LaTeX Info: Redefining \% on input line 81.
- [21 <./diseno/requerimientos/imagenes/casouso4.png (PNG copy)> <./diseno/reque
-rimientos/imagenes/secuenciaE01.png (PNG copy)>]
-<diseno/requerimientos/imagenes/secuenciaE03.png, id=84, 651.43375pt x 228.855p
+on input line 76. on input line 76.
+Package pdftex.def Info: Requested size: 251.9989pt x 96.24066pt on input line 
+76.
+<diseno/requerimientos/imagenes/secuenciaE03.png, id=81, 651.43375pt x 228.855p
 t>
 File: diseno/requerimientos/imagenes/secuenciaE03.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuenciaE03.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuenciaE03.png  used 
-on input line 84.
-(pdftex.def)             Requested size: 251.9989pt x 88.53023pt.
-<diseno/requerimientos/imagenes/secuenciaE04.png, id=85, 581.17125pt x 236.885p
+on input line 83. on input line 83.
+Package pdftex.def Info: Requested size: 251.9989pt x 88.53023pt on input line 
+83.
+<diseno/requerimientos/imagenes/secuenciaE04.png, id=82, 581.17125pt x 236.885p
 t>
 File: diseno/requerimientos/imagenes/secuenciaE04.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuenciaE04.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuenciaE04.png  used 
-on input line 91.
-(pdftex.def)             Requested size: 251.9989pt x 102.71521pt.
-<diseno/requerimientos/imagenes/secuencia1.png, id=86, 631.35875pt x 190.7125pt
+on input line 90. on input line 90.
+Package pdftex.def Info: Requested size: 251.9989pt x 102.71521pt on input line
+ 90.
+<diseno/requerimientos/imagenes/secuencia1.png, id=83, 631.35875pt x 190.7125pt
 >
 File: diseno/requerimientos/imagenes/secuencia1.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuencia1.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuencia1.png  used on
- input line 98.
-(pdftex.def)             Requested size: 251.9989pt x 76.12068pt.
-<diseno/requerimientos/imagenes/secuencia2.png, id=87, 573.14125pt x 190.7125pt
+ input line 97. on input line 97.
+Package pdftex.def Info: Requested size: 251.9989pt x 76.12068pt on input line 
+97.
+<diseno/requerimientos/imagenes/secuencia2.png, id=84, 573.14125pt x 190.7125pt
 >
 File: diseno/requerimientos/imagenes/secuencia2.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuencia2.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuencia2.png  used on
- input line 104.
-(pdftex.def)             Requested size: 251.9989pt x 83.85263pt.
+ input line 103. on input line 103.
+Package pdftex.def Info: Requested size: 251.9989pt x 83.85263pt on input line 
+103.
+LaTeX Info: Redefining \. on input line 106.
+LaTeX Info: Redefining \% on input line 106.
+
+[21 <./diseno/requerimientos/imagenes/secuenciaE01.png (PNG copy)> <./diseno/re
+querimientos/imagenes/secuenciaE02.png (PNG copy)> <./diseno/requerimientos/ima
+genes/secuenciaE03.png (PNG copy)> <./diseno/requerimientos/imagenes/secuenciaE
+04.png (PNG copy)>]
 <diseno/requerimientos/imagenes/secuencia3.png, id=88, 637.38126pt x 263.98625p
 t>
 File: diseno/requerimientos/imagenes/secuencia3.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuencia3.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuencia3.png  used on
- input line 110.
-(pdftex.def)             Requested size: 251.9989pt x 104.36807pt.
-LaTeX Info: Redefining \. on input line 113.
-LaTeX Info: Redefining \% on input line 113.
- [22 <./diseno/requerimientos/imagenes/secuenciaE02.png (PNG copy)> <./diseno/r
-equerimientos/imagenes/secuenciaE03.png (PNG copy)> <./diseno/requerimientos/im
-agenes/secuenciaE04.png (PNG copy)> <./diseno/requerimientos/imagenes/secuencia
-1.png (PNG copy)>]
-<diseno/requerimientos/imagenes/secuencia4.png, id=92, 694.595pt x 250.9375pt>
+ input line 109. on input line 109.
+Package pdftex.def Info: Requested size: 251.9989pt x 104.36807pt on input line
+ 109.
+<diseno/requerimientos/imagenes/secuencia4.png, id=89, 694.595pt x 250.9375pt>
 File: diseno/requerimientos/imagenes/secuencia4.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuencia4.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuencia4.png  used on
- input line 116.
-(pdftex.def)             Requested size: 251.9989pt x 91.04196pt.
+ input line 115. on input line 115.
+Package pdftex.def Info: Requested size: 251.9989pt x 91.04196pt on input line 
+115.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
+ [22 <./diseno/requerimientos/imagenes/secuencia1.png (PNG copy)> <./diseno/req
+uerimientos/imagenes/secuencia2.png (PNG copy)> <./diseno/requerimientos/imagen
+es/secuencia3.png (PNG copy)> <./diseno/requerimientos/imagenes/secuencia4.png 
+(PNG copy)>]
 <diseno/requerimientos/imagenes/comunicacionE01.png, id=93, 770.88pt x 346.2937
 5pt>
 File: diseno/requerimientos/imagenes/comunicacionE01.png Graphic file (type png
 )
 <use diseno/requerimientos/imagenes/comunicacionE01.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacionE01.png  us
-ed on input line 128.
-(pdftex.def)             Requested size: 251.9989pt x 113.19934pt.
-LaTeX Info: Redefining \. on input line 132.
-LaTeX Info: Redefining \% on input line 132.
- [23 <./diseno/requerimientos/imagenes/secuencia2.png (PNG copy)> <./diseno/req
-uerimientos/imagenes/secuencia3.png (PNG copy)> <./diseno/requerimientos/imagen
-es/secuencia4.png (PNG copy)>]
-<diseno/requerimientos/imagenes/comunicacionE02.png, id=97, 751.80875pt x 346.2
+ed on input line 127. on input line 127.
+Package pdftex.def Info: Requested size: 251.9989pt x 113.19934pt on input line
+ 127.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+<diseno/requerimientos/imagenes/comunicacionE02.png, id=94, 751.80875pt x 346.2
 9375pt>
 File: diseno/requerimientos/imagenes/comunicacionE02.png Graphic file (type png
 )
 <use diseno/requerimientos/imagenes/comunicacionE02.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacionE02.png  us
-ed on input line 135.
-(pdftex.def)             Requested size: 251.9989pt x 116.07384pt.
-<diseno/requerimientos/imagenes/comunicacionE03.png, id=98, 819.06pt x 85.31876
+ed on input line 134. on input line 134.
+Package pdftex.def Info: Requested size: 251.9989pt x 116.07384pt on input line
+ 134.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+<diseno/requerimientos/imagenes/comunicacionE03.png, id=95, 819.06pt x 85.31876
 pt>
 File: diseno/requerimientos/imagenes/comunicacionE03.png Graphic file (type png
 )
 <use diseno/requerimientos/imagenes/comunicacionE03.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacionE03.png  us
-ed on input line 142.
-(pdftex.def)             Requested size: 251.9989pt x 26.24934pt.
-<diseno/requerimientos/imagenes/comunicacionE05.png, id=99, 688.5725pt x 85.318
+ed on input line 141. on input line 141.
+Package pdftex.def Info: Requested size: 251.9989pt x 26.24934pt on input line 
+141.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+<diseno/requerimientos/imagenes/comunicacionE05.png, id=96, 688.5725pt x 85.318
 76pt>
 File: diseno/requerimientos/imagenes/comunicacionE05.png Graphic file (type png
 )
 <use diseno/requerimientos/imagenes/comunicacionE05.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacionE05.png  us
-ed on input line 149.
-(pdftex.def)             Requested size: 251.9989pt x 31.22374pt.
+ed on input line 148. on input line 148.
+Package pdftex.def Info: Requested size: 251.9989pt x 31.22374pt on input line 
+148.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+
+Underfull \vbox (badness 3471) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 152.
+LaTeX Info: Redefining \% on input line 152.
+Missing character: There is no √ in font cmsl10!
+Missing character: There is no ì in font cmsl10!
+ [23 <./diseno/requerimientos/imagenes/comunicacionE01.png (PNG copy)> <./disen
+o/requerimientos/imagenes/comunicacionE02.png (PNG copy)> <./diseno/requerimien
+tos/imagenes/comunicacionE03.png (PNG copy)>]
 <diseno/requerimientos/imagenes/comunicacion1.png, id=100, 638.385pt x 68.255pt
 >
 File: diseno/requerimientos/imagenes/comunicacion1.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/comunicacion1.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacion1.png  used
- on input line 156.
-(pdftex.def)             Requested size: 251.9989pt x 26.94324pt.
+ on input line 155. on input line 155.
+Package pdftex.def Info: Requested size: 251.9989pt x 26.94324pt on input line 
+155.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 <diseno/requerimientos/imagenes/comunicacion2.png, id=101, 568.1225pt x 68.255p
 t>
 File: diseno/requerimientos/imagenes/comunicacion2.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/comunicacion2.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacion2.png  used
- on input line 162.
-(pdftex.def)             Requested size: 251.9989pt x 30.27599pt.
+ on input line 161. on input line 161.
+Package pdftex.def Info: Requested size: 251.9989pt x 30.27599pt on input line 
+161.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 <diseno/requerimientos/imagenes/comunicacion3.png, id=102, 539.01375pt x 238.89
 25pt>
 File: diseno/requerimientos/imagenes/comunicacion3.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/comunicacion3.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacion3.png  used
- on input line 168.
-(pdftex.def)             Requested size: 251.9989pt x 111.68896pt.
-LaTeX Info: Redefining \. on input line 171.
-LaTeX Info: Redefining \% on input line 171.
- [24 <./diseno/requerimientos/imagenes/comunicacionE01.png (PNG copy)> <./disen
-o/requerimientos/imagenes/comunicacionE02.png (PNG copy)> <./diseno/requerimien
-tos/imagenes/comunicacionE03.png (PNG copy)> <./diseno/requerimientos/imagenes/
-comunicacionE05.png (PNG copy)> <./diseno/requerimientos/imagenes/comunicacion1
-.png (PNG copy)>]
-<diseno/requerimientos/imagenes/comunicacion4.png, id=106, 594.22pt x 207.77625
+ on input line 167. on input line 167.
+Package pdftex.def Info: Requested size: 251.9989pt x 111.68896pt on input line
+ 167.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+<diseno/requerimientos/imagenes/comunicacion4.png, id=103, 594.22pt x 207.77625
 pt>
 File: diseno/requerimientos/imagenes/comunicacion4.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/comunicacion4.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacion4.png  used
- on input line 174.
-(pdftex.def)             Requested size: 251.9989pt x 88.11508pt.
- (diseno/requerimientos/tablasRequerimientos.tex
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 4--44
+ on input line 173. on input line 173.
+Package pdftex.def Info: Requested size: 251.9989pt x 88.11508pt on input line 
+173.
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+
+(diseno/requerimientos/tablasRequerimientos.tex
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+
+Overfull \hbox (9.26971pt too wide) in paragraph at lines 4--44
  [][] 
  []
 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 49--102
+Overfull \hbox (9.26971pt too wide) in paragraph at lines 49--102
  [][] 
  []
 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 107--150
+Overfull \hbox (9.26971pt too wide) in paragraph at lines 107--150
  [][] 
  []
 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 155--182
+Overfull \hbox (9.26971pt too wide) in paragraph at lines 155--182
  [][] 
  []
 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 187--216
+Overfull \hbox (9.26971pt too wide) in paragraph at lines 187--216
  [][] 
  []
 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 222--265
+Overfull \hbox (9.26971pt too wide) in paragraph at lines 222--265
  [][] 
  []
 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 270--313
+Overfull \hbox (9.26971pt too wide) in paragraph at lines 270--313
  [][] 
  []
 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 318--359
+Overfull \hbox (9.26971pt too wide) in paragraph at lines 318--359
  [][] 
  []
 
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
 
-Overfull \hbox (14.74472pt too wide) in paragraph at lines 364--396
+Overfull \hbox (9.26971pt too wide) in paragraph at lines 364--396
  [][] 
  []
 
 ))
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
- [25 <./diseno/requerimientos/imagenes/comunicacion2.png (PNG copy)> <./diseno/
-requerimientos/imagenes/comunicacion3.png (PNG copy)> <./diseno/requerimientos/
-imagenes/comunicacion4.png (PNG copy)>]
+ [24 <./diseno/requerimientos/imagenes/comunicacionE05.png (PNG copy)> <./disen
+o/requerimientos/imagenes/comunicacion1.png (PNG copy)> <./diseno/requerimiento
+s/imagenes/comunicacion2.png (PNG copy)> <./diseno/requerimientos/imagenes/comu
+nicacion3.png (PNG copy)> <./diseno/requerimientos/imagenes/comunicacion4.png (
+PNG copy)>]
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+Missing character: There is no √ in font cmsl10!
+Missing character: There is no ì in font cmsl10!
+ [25]
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
  [26]
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
+Missing character: There is no √ in font cmsl10!
+Missing character: There is no ì in font cmsl10!
  [27]
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
  [28]
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
+Missing character: There is no √ in font cmsl10!
+Missing character: There is no ì in font cmsl10!
  [29]
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
  [30]
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
+Missing character: There is no √ in font cmsl10!
+Missing character: There is no ì in font cmsl10!
  [31]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
-
-[32]
 \openout2 = `diseno/interaccion/interaccion.aux'.
 
- (diseno/interaccion/interaccion.tex
+
+(diseno/interaccion/interaccion.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [32
+
+
+
+]
 Cap\'{\i }tulo 4.
-[33
-
-
-
-])
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+[33])
 \openout2 = `diseno/clases/clases.aux'.
 
  (diseno/clases/clases.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+Missing character: There is no √ in font cmsl10!
+Missing character: There is no ì in font cmsl10!
  [34
 
 
 
 ]
 Cap\'{\i }tulo 5.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≠ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
 <diseno/clases/imagenes/relaciones.png, id=139, 795.6927pt x 271.9761pt>
 File: diseno/clases/imagenes/relaciones.png Graphic file (type png)
 <use diseno/clases/imagenes/relaciones.png>
 Package pdftex.def Info: diseno/clases/imagenes/relaciones.png  used on input l
-ine 19.
-(pdftex.def)             Requested size: 318.27144pt x 108.7885pt.
-[35])
+ine 21. on input line 21.
+Package pdftex.def Info: Requested size: 360.0pt x 123.05211pt on input line 21
+.
+[35]
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+)
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
  [36 <./diseno/clases/imagenes/relaciones.png>]
@@ -624,16 +1289,181 @@ LaTeX Info: Redefining \% on input line 25.
 
 (diseno/patrones/patrones.tex
 Cap\'{\i }tulo 6.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
 [37
 
 
 
 ]
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
- [38])
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ± in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ° in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no © in font cmr10!
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+ [38]
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ° in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ∫ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≠ in font cmr10!
+Missing character: There is no √ in font cmr10!
+Missing character: There is no ≥ in font cmr10!
+)
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
+Missing character: There is no √ in font cmsl10!
+Missing character: There is no ì in font cmsl10!
  [39]
 \openout2 = `diseno/estados/estados.aux'.
 
@@ -646,6 +1476,8 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 7.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
 [41])
 \openout2 = `diseno/componentes/componentes.aux'.
 
@@ -658,6 +1490,8 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 8.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
 [43])
 \openout2 = `diseno/nodos/nodos.aux'.
 
@@ -670,6 +1504,8 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 9.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
 [45])
 \openout2 = `diseno/actividades/actividades.aux'.
 
@@ -682,6 +1518,8 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 10.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
 [47])
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
@@ -696,6 +1534,8 @@ LaTeX Info: Redefining \% on input line 31.
 
 ]
 Cap\'{\i }tulo 11.
+Missing character: There is no √ in font cmbx12!
+Missing character: There is no ≥ in font cmbx12!
 [53]) (informe.bbl
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -721,22 +1561,20 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2388 strings out of 492970
- 41683 string characters out of 3123930
- 160959 words of memory out of 3000000
- 6115 multiletter control sequences out of 15000+200000
+ 2651 strings out of 493312
+ 44027 string characters out of 3138893
+ 155078 words of memory out of 3000000
+ 6048 multiletter control sequences out of 15000+200000
  10376 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,31p,754b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Estudiantes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmbx10.pfb><C:/Users/Estudiantes/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Estudiantes/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Estudiantes
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
-/Users/Estudiantes/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmr17.pfb><C:/Users/Estudiantes/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmsl10.pfb>
-Output written on informe.pdf (55 pages, 503576 bytes).
+ 41i,9n,30p,752b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsl10.pfb>
+Output written on informe.pdf (55 pages, 501774 bytes).
 PDF statistics:
  230 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
