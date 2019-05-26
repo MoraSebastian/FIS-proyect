@@ -1,95 +1,160 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2019.4.20)  25 MAY 2019 22:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.1)  26 MAY 2019 15:27
 entering extended mode
 **./informe.tex
 (informe.tex
-LaTeX2e <2017-04-15>
-Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
-Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo"
-File: bk11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+LaTeX2e <2018-12-01>
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\book.cls
+"
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\bk11.clo
+"
+File: bk11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@chapter=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyv
+al.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\grap
+hics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig
+.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\
+graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\
+pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2017/11/03 3.15 The Babel package
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel
+.sty"
+Package: babel 2018/11/13 3.27 The Babel package
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2017/11/03 3.15 Babel switching mechanism
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switc
+h.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts
+.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish
+\spanish.ldf"
 Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2017/11/03 3.15 Babel common definitions
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2017/11/03 3.15 Babel switching mechanism
-)
-\babel@savecnt=\count88
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel
+.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count89
 \U@D=\dimen105
+
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtba
+bel.def")
+\bbl@dirlevel=\count90
 )
 \es@quottoks=\toks15
-\es@quotdepth=\count89
+\es@quotdepth=\count91
 Package babel Info: Making " an active character on input line 561.
 Package babel Info: Making . an active character on input line 662.
 Package babel Info: Making < an active character on input line 707.
 Package babel Info: Making > an active character on input line 707.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.s
+ty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count90
+\c@float@type=\count92
 \float@exts=\toks16
-\float@box=\box26
+\float@box=\box27
 \@float@everytoks=\toks17
-\@floatcapt=\box27
+\@floatcapt=\box28
+)
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\courie
+r.sty"
+Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\list
+ings.sty"
+\lst@mode=\count93
+\lst@gtempboxa=\box29
+\lst@token=\toks18
+\lst@length=\count94
+\lst@currlwidth=\dimen106
+\lst@column=\count95
+\lst@pos=\count96
+\lst@lostspace=\dimen107
+\lst@width=\dimen108
+\lst@newlines=\count97
+\lst@lineno=\count98
+\lst@maxwidth=\dimen109
+
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstm
+isc.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count99
+\lst@skipnumbers=\count100
+\lst@framebox=\box30
+)
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\list
+ings.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor
+.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\
+color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) (informe.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-
-(proyecto/caso/caso.aux) (proyecto/metodologia/metodologia.aux
+ (proyecto/caso/caso.aux)
+(proyecto/metodologia/metodologia.aux
 
 LaTeX Warning: Label `fig:gantt' multiply defined.
 
@@ -158,76 +223,97 @@ LaTeX Warning: Label `fig:gantt' multiply defined.
 
 LaTeX Warning: Label `fig:gantt' multiply defined.
 
-) (diseno/patrones/patrones.aux) (diseno/estados/estados.aux)
-(diseno/componentes/componentes.aux) (diseno/nodos/nodos.aux)
-(diseno/actividades/actividades.aux) (reflexiones/conclusiones/conclusiones.aux
-))
+) (diseno/patrones/patrones.aux
+
+LaTeX Warning: Label `fig:gantt' multiply defined.
+
+
+LaTeX Warning: Label `fig:gantt' multiply defined.
+
+
+LaTeX Warning: Label `fig:gantt' multiply defined.
+
+
+LaTeX Warning: Label `fig:gantt' multiply defined.
+
+) (diseno/estados/estados.aux) (diseno/componentes/componentes.aux)
+(diseno/nodos/nodos.aux) (diseno/actividades/actividades.aux)
+(reflexiones/conclusiones/conclusiones.aux))
 \openout1 = `informe.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
- ("C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii"
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\s
+upp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count91
-\scratchdimen=\dimen106
-\scratchbox=\box28
-\nofMPsegments=\count92
-\nofMParguments=\count93
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count94
-\MPscratchDim=\dimen107
-\MPnumerator=\count95
-\makeMPintoPDFobject=\count96
-\everyMPtoPDFconversion=\toks19
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+\scratchcounter=\count101
+\scratchdimen=\dimen110
+\scratchbox=\box31
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen111
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epst
+opdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\in
+fwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfe
+xt.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kv
+definekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\lt
+xcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvop
+tions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kv
+setkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\et
+excmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\if
+luatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+))))
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pd
+ftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\if
+pdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -241,107 +327,34 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Info: Redefining \. on input line 14.
-LaTeX Info: Redefining \% on input line 14.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+\c@lstlisting=\count107
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 15.
+(Font)              <12> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 15.
+(Font)              <8> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 15.
-Missing character: There is no ร in font cmr12!
-Missing character: There is no ญ in font cmr12!
-Missing character: There is no ร in font cmr12!
-Missing character: There is no ญ in font cmr12!
-Missing character: There is no ร in font cmr12!
-Missing character: There is no ก in font cmr12!
-Missing character: There is no ร in font cmr12!
-Missing character: There is no ก in font cmr12!
+(Font)              <6> on input line 30.
  [1
 
 
-{C:/Users/Usuario/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+{C:/Users/Sebastiรกn/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
 ] (informe.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 4.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmbx10!
-Missing character: There is no ญ in font cmbx10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ‘ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmbx10!
-Missing character: There is no ณ in font cmbx10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-
-[3]
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-)
+ [3])
 \tf@toc=\write3
 \openout3 = `informe.toc'.
 
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
  [4] (informe.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 )
 \tf@lof=\write4
 \openout4 = `informe.lof'.
@@ -349,336 +362,76 @@ Missing character: There is no ณ in font cmr10!
  [5
 
 ]
-LaTeX Info: Redefining \. on input line 19.
-LaTeX Info: Redefining \% on input line 19.
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
  [6
 
 ] [7] [8]
 \openout2 = `proyecto/caso/caso.aux'.
 
- (proyecto/caso/caso.tex
+
+(proyecto/caso/caso.tex
 Cap\'{\i }tulo 1.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ญ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
 [9
 
 
-]
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-)
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
+])
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
  [10]
 \openout2 = `proyecto/metodologia/metodologia.aux'.
 
  (proyecto/metodologia/metodologia.tex
 Cap\'{\i }tulo 2.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ญ in font cmbx12!
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 [11
 
 
 
 ]
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
 <proyecto/metodologia/imgs/Gantt.png, id=42, 733.99219pt x 298.86656pt>
 File: proyecto/metodologia/imgs/Gantt.png Graphic file (type png)
 <use proyecto/metodologia/imgs/Gantt.png>
 Package pdftex.def Info: proyecto/metodologia/imgs/Gantt.png  used on input lin
-e 21. on input line 21.
-Package pdftex.def Info: Requested size: 251.9989pt x 102.60742pt on input line
- 21.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ญ in font cmbx12!
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
+e 21.
+(pdftex.def)             Requested size: 251.9989pt x 102.60742pt.
 <proyecto/metodologia/imgs/Scrum.png, id=43, 493.0922pt x 307.1475pt>
 File: proyecto/metodologia/imgs/Scrum.png Graphic file (type png)
 <use proyecto/metodologia/imgs/Scrum.png>
 Package pdftex.def Info: proyecto/metodologia/imgs/Scrum.png  used on input lin
-e 29. on input line 29.
-Package pdftex.def Info: Requested size: 251.9989pt x 156.9712pt on input line 
-29.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
+e 29.
+(pdftex.def)             Requested size: 251.9989pt x 156.9712pt.
 LaTeX Info: Redefining \. on input line 35.
 LaTeX Info: Redefining \% on input line 35.
-Missing character: There is no ร in font cmsl10!
-Missing character: There is no  in font cmsl10!
- [12 <./proyecto/metodologia/imgs/Gantt.png>]
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-)
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
+ [12 <./proyecto/metodologia/imgs/Gantt.png>])
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
  [13 <./proyecto/metodologia/imgs/Scrum.png>]
-LaTeX Info: Redefining \. on input line 22.
-LaTeX Info: Redefining \% on input line 22.
-Missing character: There is no ร in font cmsl10!
-Missing character: There is no  in font cmsl10!
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
  [14
 
 
-]
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ‘ in font cmbx12!
- [15] [16]
+] [15] [16]
 \openout2 = `diseno/requerimientos/requerimientos.aux'.
 
  (diseno/requerimientos/requerimientos.tex
 Cap\'{\i }tulo 3.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
 [17
 
 
 ]
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 <diseno/requerimientos/imagenes/casouso1.png, id=65, 945.5325pt x 792.9625pt>
 File: diseno/requerimientos/imagenes/casouso1.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/casouso1.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/casouso1.png  used on i
-nput line 39. on input line 39.
-Package pdftex.def Info: Requested size: 251.9989pt x 211.33192pt on input line
- 39.
+nput line 39.
+(pdftex.def)             Requested size: 251.9989pt x 211.33192pt.
 <diseno/requerimientos/imagenes/casouso2.png, id=66, 922.44624pt x 742.775pt>
 File: diseno/requerimientos/imagenes/casouso2.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/casouso2.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/casouso2.png  used on i
-nput line 45. on input line 45.
-Package pdftex.def Info: Requested size: 251.9989pt x 202.90936pt on input line
- 45.
+nput line 45.
+(pdftex.def)             Requested size: 251.9989pt x 202.90936pt.
 
 Underfull \vbox (badness 4060) has occurred while \output is active []
 
@@ -689,17 +442,15 @@ LaTeX Info: Redefining \% on input line 48.
 File: diseno/requerimientos/imagenes/casouso3.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/casouso3.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/casouso3.png  used on i
-nput line 51. on input line 51.
-Package pdftex.def Info: Requested size: 251.9989pt x 168.18143pt on input line
- 51.
+nput line 51.
+(pdftex.def)             Requested size: 251.9989pt x 168.18143pt.
 <diseno/requerimientos/imagenes/casouso4.png, id=71, 675.52374pt x 440.64626pt>
 
 File: diseno/requerimientos/imagenes/casouso4.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/casouso4.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/casouso4.png  used on i
-nput line 57. on input line 57.
-Package pdftex.def Info: Requested size: 251.9989pt x 164.37457pt on input line
- 57.
+nput line 57.
+(pdftex.def)             Requested size: 251.9989pt x 164.37457pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -707,20 +458,13 @@ LaTeX Info: Redefining \. on input line 60.
 LaTeX Info: Redefining \% on input line 60.
  [19 <./diseno/requerimientos/imagenes/casouso1.png (PNG copy)> <./diseno/reque
 rimientos/imagenes/casouso2.png (PNG copy)>]
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 <diseno/requerimientos/imagenes/secuenciaE01.png, id=76, 798.985pt x 266.9975pt
 >
 File: diseno/requerimientos/imagenes/secuenciaE01.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuenciaE01.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuenciaE01.png  used 
-on input line 69. on input line 69.
-Package pdftex.def Info: Requested size: 251.9989pt x 84.21057pt on input line 
-69.
+on input line 69.
+(pdftex.def)             Requested size: 251.9989pt x 84.21057pt.
 LaTeX Info: Redefining \. on input line 73.
 LaTeX Info: Redefining \% on input line 73.
  [20 <./diseno/requerimientos/imagenes/casouso3.png (PNG copy)> <./diseno/reque
@@ -729,41 +473,36 @@ rimientos/imagenes/casouso4.png (PNG copy)>]
 File: diseno/requerimientos/imagenes/secuenciaE02.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuenciaE02.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuenciaE02.png  used 
-on input line 76. on input line 76.
-Package pdftex.def Info: Requested size: 251.9989pt x 96.24066pt on input line 
-76.
+on input line 76.
+(pdftex.def)             Requested size: 251.9989pt x 96.24066pt.
 <diseno/requerimientos/imagenes/secuenciaE03.png, id=81, 651.43375pt x 228.855p
 t>
 File: diseno/requerimientos/imagenes/secuenciaE03.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuenciaE03.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuenciaE03.png  used 
-on input line 83. on input line 83.
-Package pdftex.def Info: Requested size: 251.9989pt x 88.53023pt on input line 
-83.
+on input line 83.
+(pdftex.def)             Requested size: 251.9989pt x 88.53023pt.
 <diseno/requerimientos/imagenes/secuenciaE04.png, id=82, 581.17125pt x 236.885p
 t>
 File: diseno/requerimientos/imagenes/secuenciaE04.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuenciaE04.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuenciaE04.png  used 
-on input line 90. on input line 90.
-Package pdftex.def Info: Requested size: 251.9989pt x 102.71521pt on input line
- 90.
+on input line 90.
+(pdftex.def)             Requested size: 251.9989pt x 102.71521pt.
 <diseno/requerimientos/imagenes/secuencia1.png, id=83, 631.35875pt x 190.7125pt
 >
 File: diseno/requerimientos/imagenes/secuencia1.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuencia1.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuencia1.png  used on
- input line 97. on input line 97.
-Package pdftex.def Info: Requested size: 251.9989pt x 76.12068pt on input line 
-97.
+ input line 97.
+(pdftex.def)             Requested size: 251.9989pt x 76.12068pt.
 <diseno/requerimientos/imagenes/secuencia2.png, id=84, 573.14125pt x 190.7125pt
 >
 File: diseno/requerimientos/imagenes/secuencia2.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuencia2.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuencia2.png  used on
- input line 103. on input line 103.
-Package pdftex.def Info: Requested size: 251.9989pt x 83.85263pt on input line 
-103.
+ input line 103.
+(pdftex.def)             Requested size: 251.9989pt x 83.85263pt.
 LaTeX Info: Redefining \. on input line 106.
 LaTeX Info: Redefining \% on input line 106.
 
@@ -776,20 +515,14 @@ t>
 File: diseno/requerimientos/imagenes/secuencia3.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuencia3.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuencia3.png  used on
- input line 109. on input line 109.
-Package pdftex.def Info: Requested size: 251.9989pt x 104.36807pt on input line
- 109.
+ input line 109.
+(pdftex.def)             Requested size: 251.9989pt x 104.36807pt.
 <diseno/requerimientos/imagenes/secuencia4.png, id=89, 694.595pt x 250.9375pt>
 File: diseno/requerimientos/imagenes/secuencia4.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/secuencia4.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/secuencia4.png  used on
- input line 115. on input line 115.
-Package pdftex.def Info: Requested size: 251.9989pt x 91.04196pt on input line 
-115.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+ input line 115.
+(pdftex.def)             Requested size: 251.9989pt x 91.04196pt.
 LaTeX Info: Redefining \. on input line 122.
 LaTeX Info: Redefining \% on input line 122.
  [22 <./diseno/requerimientos/imagenes/secuencia1.png (PNG copy)> <./diseno/req
@@ -802,51 +535,37 @@ File: diseno/requerimientos/imagenes/comunicacionE01.png Graphic file (type png
 )
 <use diseno/requerimientos/imagenes/comunicacionE01.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacionE01.png  us
-ed on input line 127. on input line 127.
-Package pdftex.def Info: Requested size: 251.9989pt x 113.19934pt on input line
- 127.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+ed on input line 127.
+(pdftex.def)             Requested size: 251.9989pt x 113.19934pt.
 <diseno/requerimientos/imagenes/comunicacionE02.png, id=94, 751.80875pt x 346.2
 9375pt>
 File: diseno/requerimientos/imagenes/comunicacionE02.png Graphic file (type png
 )
 <use diseno/requerimientos/imagenes/comunicacionE02.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacionE02.png  us
-ed on input line 134. on input line 134.
-Package pdftex.def Info: Requested size: 251.9989pt x 116.07384pt on input line
- 134.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+ed on input line 134.
+(pdftex.def)             Requested size: 251.9989pt x 116.07384pt.
 <diseno/requerimientos/imagenes/comunicacionE03.png, id=95, 819.06pt x 85.31876
 pt>
 File: diseno/requerimientos/imagenes/comunicacionE03.png Graphic file (type png
 )
 <use diseno/requerimientos/imagenes/comunicacionE03.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacionE03.png  us
-ed on input line 141. on input line 141.
-Package pdftex.def Info: Requested size: 251.9989pt x 26.24934pt on input line 
-141.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+ed on input line 141.
+(pdftex.def)             Requested size: 251.9989pt x 26.24934pt.
 <diseno/requerimientos/imagenes/comunicacionE05.png, id=96, 688.5725pt x 85.318
 76pt>
 File: diseno/requerimientos/imagenes/comunicacionE05.png Graphic file (type png
 )
 <use diseno/requerimientos/imagenes/comunicacionE05.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacionE05.png  us
-ed on input line 148. on input line 148.
-Package pdftex.def Info: Requested size: 251.9989pt x 31.22374pt on input line 
-148.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+ed on input line 148.
+(pdftex.def)             Requested size: 251.9989pt x 31.22374pt.
 
 Underfull \vbox (badness 3471) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 152.
 LaTeX Info: Redefining \% on input line 152.
-Missing character: There is no ร in font cmsl10!
-Missing character: There is no “ in font cmsl10!
  [23 <./diseno/requerimientos/imagenes/comunicacionE01.png (PNG copy)> <./disen
 o/requerimientos/imagenes/comunicacionE02.png (PNG copy)> <./diseno/requerimien
 tos/imagenes/comunicacionE03.png (PNG copy)>]
@@ -855,336 +574,103 @@ tos/imagenes/comunicacionE03.png (PNG copy)>]
 File: diseno/requerimientos/imagenes/comunicacion1.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/comunicacion1.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacion1.png  used
- on input line 155. on input line 155.
-Package pdftex.def Info: Requested size: 251.9989pt x 26.94324pt on input line 
-155.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+ on input line 155.
+(pdftex.def)             Requested size: 251.9989pt x 26.94324pt.
 <diseno/requerimientos/imagenes/comunicacion2.png, id=101, 568.1225pt x 68.255p
 t>
 File: diseno/requerimientos/imagenes/comunicacion2.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/comunicacion2.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacion2.png  used
- on input line 161. on input line 161.
-Package pdftex.def Info: Requested size: 251.9989pt x 30.27599pt on input line 
-161.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+ on input line 161.
+(pdftex.def)             Requested size: 251.9989pt x 30.27599pt.
 <diseno/requerimientos/imagenes/comunicacion3.png, id=102, 539.01375pt x 238.89
 25pt>
 File: diseno/requerimientos/imagenes/comunicacion3.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/comunicacion3.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacion3.png  used
- on input line 167. on input line 167.
-Package pdftex.def Info: Requested size: 251.9989pt x 111.68896pt on input line
- 167.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+ on input line 167.
+(pdftex.def)             Requested size: 251.9989pt x 111.68896pt.
 <diseno/requerimientos/imagenes/comunicacion4.png, id=103, 594.22pt x 207.77625
 pt>
 File: diseno/requerimientos/imagenes/comunicacion4.png Graphic file (type png)
 <use diseno/requerimientos/imagenes/comunicacion4.png>
 Package pdftex.def Info: diseno/requerimientos/imagenes/comunicacion4.png  used
- on input line 173. on input line 173.
-Package pdftex.def Info: Requested size: 251.9989pt x 88.11508pt on input line 
-173.
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+ on input line 173.
+(pdftex.def)             Requested size: 251.9989pt x 88.11508pt.
 
 (diseno/requerimientos/tablasRequerimientos.tex
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-
-Overfull \hbox (9.26971pt too wide) in paragraph at lines 4--44
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 4--44
  [][] 
  []
 
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
 
-Overfull \hbox (9.26971pt too wide) in paragraph at lines 49--102
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 49--102
  [][] 
  []
 
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
 
-Overfull \hbox (9.26971pt too wide) in paragraph at lines 107--150
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 107--150
  [][] 
  []
 
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 
-Overfull \hbox (9.26971pt too wide) in paragraph at lines 155--182
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 155--182
  [][] 
  []
 
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 
-Overfull \hbox (9.26971pt too wide) in paragraph at lines 187--216
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 187--216
  [][] 
  []
 
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 
-Overfull \hbox (9.26971pt too wide) in paragraph at lines 222--265
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 222--265
  [][] 
  []
 
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 
-Overfull \hbox (9.26971pt too wide) in paragraph at lines 270--313
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 270--313
  [][] 
  []
 
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 
-Overfull \hbox (9.26971pt too wide) in paragraph at lines 318--359
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 318--359
  [][] 
  []
 
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
 
-Overfull \hbox (9.26971pt too wide) in paragraph at lines 364--396
+Overfull \hbox (14.74472pt too wide) in paragraph at lines 364--396
  [][] 
  []
 
 ))
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [24 <./diseno/requerimientos/imagenes/comunicacionE05.png (PNG copy)> <./disen
 o/requerimientos/imagenes/comunicacion1.png (PNG copy)> <./diseno/requerimiento
 s/imagenes/comunicacion2.png (PNG copy)> <./diseno/requerimientos/imagenes/comu
 nicacion3.png (PNG copy)> <./diseno/requerimientos/imagenes/comunicacion4.png (
 PNG copy)>]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
-Missing character: There is no ร in font cmsl10!
-Missing character: There is no “ in font cmsl10!
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [25]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [26]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
-Missing character: There is no ร in font cmsl10!
-Missing character: There is no “ in font cmsl10!
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [27]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [28]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
-Missing character: There is no ร in font cmsl10!
-Missing character: There is no “ in font cmsl10!
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [29]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [30]
-LaTeX Info: Redefining \. on input line 23.
-LaTeX Info: Redefining \% on input line 23.
-Missing character: There is no ร in font cmsl10!
-Missing character: There is no “ in font cmsl10!
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
  [31]
 \openout2 = `diseno/interaccion/interaccion.aux'.
 
@@ -1198,304 +684,104 @@ LaTeX Info: Redefining \% on input line 1.
 
 ]
 Cap\'{\i }tulo 4.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
 [33])
 \openout2 = `diseno/clases/clases.aux'.
 
  (diseno/clases/clases.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-Missing character: There is no ร in font cmsl10!
-Missing character: There is no “ in font cmsl10!
  [34
 
 
 
 ]
 Cap\'{\i }tulo 5.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ญ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
 <diseno/clases/imagenes/relaciones.png, id=139, 795.6927pt x 271.9761pt>
 File: diseno/clases/imagenes/relaciones.png Graphic file (type png)
 <use diseno/clases/imagenes/relaciones.png>
 Package pdftex.def Info: diseno/clases/imagenes/relaciones.png  used on input l
-ine 21. on input line 21.
-Package pdftex.def Info: Requested size: 360.0pt x 123.05211pt on input line 21
-.
-[35]
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-)
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+ine 21.
+(pdftex.def)             Requested size: 360.0pt x 123.05211pt.
+[35])
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
  [36 <./diseno/clases/imagenes/relaciones.png>]
 \openout2 = `diseno/patrones/patrones.aux'.
 
 
 (diseno/patrones/patrones.tex
 Cap\'{\i }tulo 6.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
 [37
 
 
 
 ]
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฑ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ก in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ฉ in font cmr10!
-LaTeX Info: Redefining \. on input line 38.
-LaTeX Info: Redefining \% on input line 38.
- [38]
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ก in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no บ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ญ in font cmr10!
-Missing character: There is no ร in font cmr10!
-Missing character: There is no ณ in font cmr10!
+<diseno/patrones/imgs/Composite.png, id=151, 821.0675pt x 345.29pt>
+File: diseno/patrones/imgs/Composite.png Graphic file (type png)
+<use diseno/patrones/imgs/Composite.png>
+Package pdftex.def Info: diseno/patrones/imgs/Composite.png  used on input line
+ 17.
+(pdftex.def)             Requested size: 360.0pt x 151.39066pt.
+<diseno/patrones/imgs/Agrupador.png, id=152, 324.21124pt x 453.695pt>
+File: diseno/patrones/imgs/Agrupador.png Graphic file (type png)
+<use diseno/patrones/imgs/Agrupador.png>
+Package pdftex.def Info: diseno/patrones/imgs/Agrupador.png  used on input line
+ 27.
+(pdftex.def)             Requested size: 180.0pt x 251.8937pt.
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+ [38 <./diseno/patrones/imgs/Composite.png (PNG copy)>]
+<diseno/patrones/imgs/FabricaAbstracta.png, id=156, 836.12375pt x 374.39874pt>
+File: diseno/patrones/imgs/FabricaAbstracta.png Graphic file (type png)
+<use diseno/patrones/imgs/FabricaAbstracta.png>
+Package pdftex.def Info: diseno/patrones/imgs/FabricaAbstracta.png  used on inp
+ut line 41.
+(pdftex.def)             Requested size: 360.0pt x 161.2054pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+ [39 <./diseno/patrones/imgs/Agrupador.png (PNG copy)>]
+<diseno/patrones/imgs/Estrategia.png, id=160, 844.15375pt x 269.005pt>
+File: diseno/patrones/imgs/Estrategia.png Graphic file (type png)
+<use diseno/patrones/imgs/Estrategia.png>
+Package pdftex.def Info: diseno/patrones/imgs/Estrategia.png  used on input lin
+e 53.
+(pdftex.def)             Requested size: 360.0pt x 114.72171pt.
+
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstl
+ang1.sty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
 )
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
-Missing character: There is no ร in font cmsl10!
-Missing character: There is no “ in font cmsl10!
- [39]
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [40 <./diseno/patrones/imgs/FabricaAbstracta.png (PNG copy)> <./diseno/patrone
+s/imgs/Estrategia.png (PNG copy)>]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 60.
+
+("C:\Users\Sebastiรกn\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr
+.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Info: Redefining \. on input line 106.
+LaTeX Info: Redefining \% on input line 106.
+ [41])
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+ [42]
 \openout2 = `diseno/estados/estados.aux'.
 
  (diseno/estados/estados.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [40
-
-
-
-]
 Cap\'{\i }tulo 7.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-[41])
+[43
+
+
+
+])
 \openout2 = `diseno/componentes/componentes.aux'.
 
  (diseno/componentes/componentes.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [42
-
-
-
-]
-Cap\'{\i }tulo 8.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-[43])
-\openout2 = `diseno/nodos/nodos.aux'.
-
- (diseno/nodos/nodos.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [44
@@ -1503,13 +789,11 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 ]
-Cap\'{\i }tulo 9.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
+Cap\'{\i }tulo 8.
 [45])
-\openout2 = `diseno/actividades/actividades.aux'.
+\openout2 = `diseno/nodos/nodos.aux'.
 
- (diseno/actividades/actividades.tex
+ (diseno/nodos/nodos.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [46
@@ -1517,36 +801,44 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 ]
-Cap\'{\i }tulo 10.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
+Cap\'{\i }tulo 9.
 [47])
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
+\openout2 = `diseno/actividades/actividades.aux'.
+
+ (diseno/actividades/actividades.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
  [48
 
 
-] [49] [50] [51]
+
+]
+Cap\'{\i }tulo 10.
+[49])
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+ [50
+
+
+] [51] [52] [53]
 \openout2 = `reflexiones/conclusiones/conclusiones.aux'.
 
- (reflexiones/conclusiones/conclusiones.tex [52
+ (reflexiones/conclusiones/conclusiones.tex [54
 
 
 ]
 Cap\'{\i }tulo 11.
-Missing character: There is no ร in font cmbx12!
-Missing character: There is no ณ in font cmbx12!
-[53]) (informe.bbl
+[55]) (informe.bbl
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [54
+ [56
 
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [55] (informe.aux
+) [57] (informe.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
  (proyecto/caso/caso.aux)
@@ -1561,22 +853,27 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2651 strings out of 493312
- 44027 string characters out of 3138893
- 155078 words of memory out of 3000000
- 6048 multiletter control sequences out of 15000+200000
- 10376 words of font info for 36 fonts, out of 3000000 for 9000
+ 4939 strings out of 492945
+ 79147 string characters out of 3124033
+ 403591 words of memory out of 3000000
+ 8649 multiletter control sequences out of 15000+200000
+ 10891 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,30p,752b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmsl10.pfb>
-Output written on informe.pdf (55 pages, 501774 bytes).
+ 41i,11n,44p,761b,1865s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Sebastiรกn/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8
+r.enc}<C:/Users/Sebastiรกn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb><C:/Users/Sebastiรกn/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Sebastiรกn/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Sebastiรกn
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:
+/Users/Sebastiรกn/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr17.pfb><C:/Users/Sebastiรกn/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmr6.pfb><C:/Users/Sebastiรกn/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/Sebastiรกn/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb>
+Output written on informe.pdf (57 pages, 579632 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
+ 249 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
