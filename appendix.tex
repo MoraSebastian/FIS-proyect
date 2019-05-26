@@ -1,0 +1,135 @@
+% !TEX root = ../thesis-sample.tex
+\appendix
+\chapter{Apéndice capítulo 6: Patrones}
+
+
+\section{Patrón composite}
+
+\subsection{Clase Tarea}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public abstract class Tarea{
+public abstract void operacion();
+public void adicionar(Componente componente){}
+public void remover(Componente componente){}
+public Componente getHijo(int a){
+  return null;
+}
+}
+\end{lstlisting}
+
+\subsection{Clase Subtarea}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+import java.util.List;
+import java.util.ArrayList;
+public class Subtarea extends Tarea{
+private List<Tarea> hijo=new ArrayList<Tarea>();
+public void operacion(){
+  //para todo g en hijo
+  for(Tarea g:hijo){
+     g.operacion();
+  }
+}
+public void adicionar(Componente componente){
+  hijo.add(componente);
+}
+public void remover(Componente componente){
+  hijo.remove(componente);
+}
+public Componente getHijo(int a){
+  return hijo.get(a);
+}
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea trabajo}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class TareaTrabajo extends Tarea{
+private String descripcionTrabajo;
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea consulta}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class TareaConsulta extends Tarea{
+private String descripcionConsulta;
+private boolean requiereConexion;
+public void operacion(){}
+}
+\end{lstlisting}
+
+\subsection{Clase Tarea lectura}
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+public class TareaLectura extends Tarea{
+private int numeroPaginas;
+private String nombreLectura;
+public void operacion(){null}
+}
+\end{lstlisting}
+
+\section{Patrón agrupador}
+
+\subsection{Clase horario}
+
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+import java.util.List;
+import java.util.ArrayList;
+public abstract class Horario{
+	protected static Horario localizador;
+	protected List<Horario> argupador=new ArrayList<Horario>();
+	public static void main(String[] args){
+		Horario A =  new Franja();
+		A.abrirGrupo();
+		A.agrupar();
+		A.manejarAgrupacion();
+		Horario B =  new AgrupadorB();
+		B.agrupar();
+		B.manejarAgrupacion();
+	}
+	public void abrirGrupo(){
+		if(localizador==null){
+   			localizador=this;
+   			argupador=new ArrayList<Horario>();
+   		}
+	}
+	public void cerrarGrupo(){
+		localizador = null;
+	}
+	public void agrupar(){
+		if(localizador!=null){
+   			(argupador = localizador.argupador).add(this);
+		}
+	}
+	public void desagrupar(){
+		if(localizador!=null){
+   			localizador.argupador.remove(this);
+		}
+	}
+	public void manejarAgrupacion(){
+		for(Horario a:argupador){
+ 	    	a.accion();
+		}
+	}
+	protected abstract void accion();
+}
+\end{lstlisting}
+
+\subsection{Clase franja}
+
+\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
+import static com.componentes.diseno.lmc.marcosDeReferencia.computacion.Computacion.*;
+import static com.componentes.diseno.lmc.marcosDeReferencia.emoticons.Emoticons.*;
+public class Franja extends Horario{
+	private String nombreFranja;
+	private int tiempoInicio;
+	private int tiempoFinal;
+	private int horas;
+	private int disponibilidad;
+	private []int dias;
+	protected void accion(){
+		System.out.println(SERIOUS);
+	}
+}
+\end{lstlisting}
+\section{Patrón fábrica abstracta}
+
+\section{Patrón estrategia}

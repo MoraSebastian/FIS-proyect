@@ -7,7 +7,7 @@ A partir de lo anterior, es claro que los patrones de diseño aparecerán en la 
 Se debe mencionar también que los patrones propuestos en este documento, no necesariamente todos están incluidos en el Gof (the Gang of Four), pues existen otras soluciones que aunque no tan conocidas, pueden tener un impacto positivo debido en el desarrollo del software.
 \newpage
 
-\section{Composite}
+\section{Patrón Composite}
 El patrón de diseño Composite (Componente), nos permite construir estructuras complejas partiendo de otras estructuras mucho mas simples, lo cual permite crear estructuras compuestas conformadas por otras mas pequeñas. Este patrón resulta útil para la creación de subtareas dentro de una tarea mas general, ya que se genera una estructura en forma de árbol gracias a la recursividad con la que funciona el patrón. Otra ventaja de su utilización, en este desarrollo específicamente,  es que se puede representar la jerarquía de tarea-subtarea, además de añadir dinamismo a la tarea, ya que ésta puede tener subtareas de diferentes tipos. Además es posible tratar la subtarea como tarea.
 \\
 En conclusión, el patrón componente posibilita la solución del problema de las subtareas, ya que permite jerarquizar, añadir dinamismo a la tarea por medio de subtareas y construir la tarea general por medio de subtareas, por esta razón será utilizado dentro de este software.
@@ -19,7 +19,7 @@ En conclusión, el patrón componente posibilita la solución del problema de la
 	\label{fig:gantt}
 \end{figure}
 
-\section{Agrupación}
+\section{Patrón agrupador}
 Un horario puede mostrarse como la constitución de diversas franjas en un orden lógico; estas deben agruparse para que haya orden y se puedan manejar conjuntamente. Por está razón el patrón agrupación será de utilidad, ya que permite generar una estructura en la cual los módulos, que en este caso son las franjas, puedan ser agrupados para invocarse de forma colectiva como el horario, de esta forma se centraliza el control de la estructura en una sola clase.
 
 \begin{figure}[H]
@@ -54,65 +54,3 @@ En la mención a la fábrica abstracta se mencionaron las familias de objetos de
 	\caption{Patrón Estrategia}
 	\label{fig:gantt}
 \end{figure}
-
-Código fuente, clase Horario:
-
-\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
-import java.util.List;
-import java.util.ArrayList;
-public abstract class Horario{
-	protected static Horario localizador;
-	protected List<Horario> argupador=new ArrayList<Horario>();
-	public static void main(String[] args){
-		Horario A =  new Franja();
-		A.abrirGrupo();
-		A.agrupar();
-		A.manejarAgrupacion();
-		Horario B =  new AgrupadorB();
-		B.agrupar();
-		B.manejarAgrupacion();
-	}
-	public void abrirGrupo(){
-		if(localizador==null){
-   			localizador=this;
-   			argupador=new ArrayList<Horario>();
-   		}
-	}
-	public void cerrarGrupo(){
-		localizador = null;
-	}
-	public void agrupar(){
-		if(localizador!=null){
-   			(argupador = localizador.argupador).add(this);
-		}
-	}
-	public void desagrupar(){
-		if(localizador!=null){
-   			localizador.argupador.remove(this);
-		}
-	}
-	public void manejarAgrupacion(){
-		for(Horario a:argupador){
- 	    	a.accion();
-		}
-	}
-	protected abstract void accion();
-}
-\end{lstlisting}
-
-Código fuente, clase Franja:
-\begin{lstlisting}[language = Java  , firstnumber = last , escapeinside={(*@}{@*)}]
-import static com.componentes.diseno.lmc.marcosDeReferencia.computacion.Computacion.*;
-import static com.componentes.diseno.lmc.marcosDeReferencia.emoticons.Emoticons.*;
-public class Franja extends Horario{
-	private String nombreFranja;
-	private int tiempoInicio;
-	private int tiempoFinal;
-	private int horas;
-	private int disponibilidad;
-	private []int dias;
-	protected void accion(){
-		System.out.println(SERIOUS);
-	}
-}
-\end{lstlisting}
