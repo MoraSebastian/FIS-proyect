@@ -11,9 +11,8 @@ Por esta razón, la utilización de componentes es ventajosa para realizar este 
 \end{figure}
 Las funcionalidades de los componentes del diagrama son:
 \begin{itemize}
-	\item Vista: Este componente le ofrece una interfaz gráfica al software, sólo se comunica con el gestorPrincipal para solicitarle la información que necesita mostrar.
-	\item GestorPrincipal: Se encarga de controlar el software.
-	\item Agenda: La agenda organiza las tareas de acuerdo al horario, por lo tanto se comunica con ambos componentes para solicitar la información que necesita para realizar su tarea.
+	\item Interfaz gráfica: Este componente le ofrece una interfaz gráfica al software, sólo se comunica con el gestorPrincipal para solicitarle la información que necesita mostrar.
+	\item Agenda: La agenda organiza las tareas de acuerdo al horario, por lo tanto se comunica con ambos componentes para solicitar la información que necesita para realizar su tarea. Luego le envía la información al componente de interfaz gráfica, para que muestre la información.
 	\item Horario: Realiza todas las funciones como crear, modificar, ordenar el horario del estudiante. Se comunica con la persistencia para solicitar información.
 	\item Tarea: Se encarga de realizar funciones como crear y  modificar tareas. Se comunica con la persistencia para obtener la información que necesita.
 	\item Persistencia: Es el componente que se comunica con la base de datos y brinda fachadas para que los componentes que lo necesiten hagan consultas o ingresen información en la vase de datos.
