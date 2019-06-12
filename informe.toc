@@ -37,39 +37,41 @@
 \contentsline {section}{\numberline {8.2}Diagrama de componentes}{48}
 \contentsline {chapter}{\numberline {9}Nodos}{51}
 \contentsline {section}{\numberline {9.1}Introducción}{51}
-\contentsline {chapter}{\numberline {10}Actividades}{53}
-\contentsline {section}{\numberline {10.1}Introducción}{53}
-\contentsline {part}{III\hspace {1em}REFLEXIONES}{55}
-\contentsline {chapter}{\numberline {11}Conclusiones}{57}
-\contentsline {section}{\numberline {11.1}Introducción}{57}
-\contentsline {chapter}{\numberline {A}Apéndice capítulo 6: Patrones}{59}
-\contentsline {section}{\numberline {A.1}Patrón composite}{59}
-\contentsline {subsection}{\numberline {A.1.1}Clase Tarea}{59}
-\contentsline {subsection}{\numberline {A.1.2}Clase Subtarea}{59}
-\contentsline {subsection}{\numberline {A.1.3}Clase Tarea trabajo}{60}
-\contentsline {subsection}{\numberline {A.1.4}Clase Tarea consulta}{60}
-\contentsline {subsection}{\numberline {A.1.5}Clase Tarea lectura}{60}
-\contentsline {section}{\numberline {A.2}Patrón agrupador}{60}
-\contentsline {subsection}{\numberline {A.2.1}Clase horario}{60}
-\contentsline {subsection}{\numberline {A.2.2}Clase franja}{61}
-\contentsline {section}{\numberline {A.3}Patrón Estrategia}{62}
-\contentsline {subsection}{\numberline {A.3.1}Clase EstrategiaMod}{62}
-\contentsline {subsection}{\numberline {A.3.2}Clase EstrategiaConcretaA}{62}
-\contentsline {subsection}{\numberline {A.3.3}Clase EstrategiaConcretaB}{62}
-\contentsline {subsection}{\numberline {A.3.4}Clase EstrategiaConcretaC}{62}
-\contentsline {subsection}{\numberline {A.3.5}Clase Tarea}{62}
-\contentsline {subsection}{\numberline {A.3.6}Clase Subtarea}{62}
-\contentsline {subsection}{\numberline {A.3.7}Clase Tarea trabajo}{63}
-\contentsline {subsection}{\numberline {A.3.8}Clase Tarea consulta}{63}
-\contentsline {subsection}{\numberline {A.3.9}Clase Tarea lectura}{63}
-\contentsline {section}{\numberline {A.4}Patrón Fábrica Abstracta}{63}
-\contentsline {subsection}{\numberline {A.4.1}Clase Tarea}{63}
-\contentsline {subsection}{\numberline {A.4.2}Clase Subtarea}{64}
-\contentsline {subsection}{\numberline {A.4.3}Clase Tarea trabajo}{64}
-\contentsline {subsection}{\numberline {A.4.4}Clase Tarea consulta}{64}
-\contentsline {subsection}{\numberline {A.4.5}Clase Tarea lectura}{64}
-\contentsline {subsection}{\numberline {A.4.6}Clase FabricaAbstracta}{65}
-\contentsline {subsection}{\numberline {A.4.7}Clase FabricaTTrabajo}{65}
-\contentsline {subsection}{\numberline {A.4.8}Clase FabricaTLectura}{65}
-\contentsline {subsection}{\numberline {A.4.9}Clase FabricaTConsulta}{65}
-\contentsline {subsection}{\numberline {A.4.10}Clase Cliente}{65}
+\contentsline {section}{\numberline {9.2}Marco Teórico}{51}
+\contentsline {section}{\numberline {9.3}Diagrama de nodos}{53}
+\contentsline {chapter}{\numberline {10}Actividades}{55}
+\contentsline {section}{\numberline {10.1}Introducción}{55}
+\contentsline {part}{III\hspace {1em}REFLEXIONES}{57}
+\contentsline {chapter}{\numberline {11}Conclusiones}{59}
+\contentsline {section}{\numberline {11.1}Introducción}{59}
+\contentsline {chapter}{\numberline {A}Apéndice capítulo 6: Patrones}{61}
+\contentsline {section}{\numberline {A.1}Patrón composite}{61}
+\contentsline {subsection}{\numberline {A.1.1}Clase Tarea}{61}
+\contentsline {subsection}{\numberline {A.1.2}Clase Subtarea}{61}
+\contentsline {subsection}{\numberline {A.1.3}Clase Tarea trabajo}{62}
+\contentsline {subsection}{\numberline {A.1.4}Clase Tarea consulta}{62}
+\contentsline {subsection}{\numberline {A.1.5}Clase Tarea lectura}{62}
+\contentsline {section}{\numberline {A.2}Patrón agrupador}{62}
+\contentsline {subsection}{\numberline {A.2.1}Clase horario}{62}
+\contentsline {subsection}{\numberline {A.2.2}Clase franja}{63}
+\contentsline {section}{\numberline {A.3}Patrón Estrategia}{64}
+\contentsline {subsection}{\numberline {A.3.1}Clase EstrategiaMod}{64}
+\contentsline {subsection}{\numberline {A.3.2}Clase EstrategiaConcretaA}{64}
+\contentsline {subsection}{\numberline {A.3.3}Clase EstrategiaConcretaB}{64}
+\contentsline {subsection}{\numberline {A.3.4}Clase EstrategiaConcretaC}{64}
+\contentsline {subsection}{\numberline {A.3.5}Clase Tarea}{64}
+\contentsline {subsection}{\numberline {A.3.6}Clase Subtarea}{64}
+\contentsline {subsection}{\numberline {A.3.7}Clase Tarea trabajo}{65}
+\contentsline {subsection}{\numberline {A.3.8}Clase Tarea consulta}{65}
+\contentsline {subsection}{\numberline {A.3.9}Clase Tarea lectura}{65}
+\contentsline {section}{\numberline {A.4}Patrón Fábrica Abstracta}{65}
+\contentsline {subsection}{\numberline {A.4.1}Clase Tarea}{65}
+\contentsline {subsection}{\numberline {A.4.2}Clase Subtarea}{66}
+\contentsline {subsection}{\numberline {A.4.3}Clase Tarea trabajo}{66}
+\contentsline {subsection}{\numberline {A.4.4}Clase Tarea consulta}{66}
+\contentsline {subsection}{\numberline {A.4.5}Clase Tarea lectura}{66}
+\contentsline {subsection}{\numberline {A.4.6}Clase FabricaAbstracta}{67}
+\contentsline {subsection}{\numberline {A.4.7}Clase FabricaTTrabajo}{67}
+\contentsline {subsection}{\numberline {A.4.8}Clase FabricaTLectura}{67}
+\contentsline {subsection}{\numberline {A.4.9}Clase FabricaTConsulta}{67}
+\contentsline {subsection}{\numberline {A.4.10}Clase Cliente}{67}
