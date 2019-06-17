@@ -38,7 +38,7 @@
 \contentsline {chapter}{\numberline {9}Nodos}{51}
 \contentsline {section}{\numberline {9.1}Introducción}{51}
 \contentsline {section}{\numberline {9.2}Marco Teórico}{51}
-\contentsline {section}{\numberline {9.3}Diagrama de nodos}{53}
+\contentsline {section}{\numberline {9.3}Diagrama de nodos}{54}
 \contentsline {chapter}{\numberline {10}Actividades}{55}
 \contentsline {section}{\numberline {10.1}Introducción}{55}
 \contentsline {part}{III\hspace {1em}REFLEXIONES}{57}
